@@ -1,0 +1,11925 @@
+{
+   "553": {
+      "name": [
+         "Lou",
+         "Williams"
+      ],
+      "teams": [
+         1,
+         16,
+         1
+      ],
+      "active": false
+   },
+   "152": {
+      "name": [
+         "Kris",
+         "Dunn"
+      ],
+      "teams": [
+         1,
+         19,
+         29,
+         40
+      ],
+      "active": true
+   },
+   "761": {
+      "name": [
+         "John",
+         "Collins"
+      ],
+      "teams": [
+         1,
+         1,
+         1
+      ],
+      "active": true
+   },
+   "1858": {
+      "name": [
+         "Bruno",
+         "Fernando"
+      ],
+      "teams": [
+         1,
+         2,
+         14,
+         1,
+         14
+      ],
+      "active": true
+   },
+   "980": {
+      "name": [
+         "Kevin",
+         "Huerter"
+      ],
+      "teams": [
+         1,
+         1,
+         30
+      ],
+      "active": true
+   },
+   "1046": {
+      "name": [
+         "Trae",
+         "Young"
+      ],
+      "teams": [
+         1,
+         1,
+         1
+      ],
+      "active": true
+   },
+   "1063": {
+      "name": [
+         "Brandon",
+         "Goodwin"
+      ],
+      "teams": [
+         1,
+         7,
+         24
+      ],
+      "active": false
+   },
+   "1889": {
+      "name": [
+         "Cam",
+         "Reddish"
+      ],
+      "teams": [
+         1,
+         1,
+         24,
+         24,
+         29
+      ],
+      "active": true
+   },
+   "1868": {
+      "name": [
+         "De'Andre",
+         "Hunter"
+      ],
+      "teams": [
+         1,
+         1,
+         1
+      ],
+      "active": true
+   },
+   "2629": {
+      "name": [
+         "Onyeka",
+         "Okongwu"
+      ],
+      "teams": [
+         1,
+         1,
+         1
+      ],
+      "active": true
+   },
+   "2620": {
+      "name": [
+         "Skylar",
+         "Mays"
+      ],
+      "teams": [
+         1,
+         1
+      ],
+      "active": false
+   },
+   "2607": {
+      "name": [
+         "Nathan",
+         "Knight"
+      ],
+      "teams": [
+         1,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "455": {
+      "name": [
+         "Rajon",
+         "Rondo"
+      ],
+      "teams": [
+         1,
+         16,
+         7,
+         17
+      ],
+      "active": false
+   },
+   "181": {
+      "name": [
+         "Danilo",
+         "Gallinari"
+      ],
+      "teams": [
+         1,
+         1,
+         2
+      ],
+      "active": true
+   },
+   "492": {
+      "name": [
+         "Tony",
+         "Snell"
+      ],
+      "teams": [
+         1,
+         23,
+         29
+      ],
+      "active": false
+   },
+   "239": {
+      "name": [
+         "Solomon",
+         "Hill"
+      ],
+      "teams": [
+         1,
+         1
+      ],
+      "active": false
+   },
+   "92": {
+      "name": [
+         "Clint",
+         "Capela"
+      ],
+      "teams": [
+         1,
+         1,
+         1
+      ],
+      "active": true
+   },
+   "743": {
+      "name": [
+         "Bogdan",
+         "Bogdanovic"
+      ],
+      "teams": [
+         1,
+         1,
+         1
+      ],
+      "active": true
+   },
+   "75": {
+      "name": [
+         "Jaylen",
+         "Brown"
+      ],
+      "teams": [
+         2,
+         2,
+         2
+      ],
+      "active": true
+   },
+   "882": {
+      "name": [
+         "Jayson",
+         "Tatum"
+      ],
+      "teams": [
+         2,
+         2,
+         2
+      ],
+      "active": true
+   },
+   "852": {
+      "name": [
+         "Semi",
+         "Ojeleye"
+      ],
+      "teams": [
+         2,
+         16,
+         21
+      ],
+      "active": false
+   },
+   "819": {
+      "name": [
+         "Luke",
+         "Kornet"
+      ],
+      "teams": [
+         2,
+         6,
+         2,
+         7,
+         21,
+         2
+      ],
+      "active": true
+   },
+   "886": {
+      "name": [
+         "Daniel",
+         "Theis"
+      ],
+      "teams": [
+         2,
+         6,
+         2,
+         14,
+         15
+      ],
+      "active": true
+   },
+   "807": {
+      "name": [
+         "Amile",
+         "Jefferson"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "1037": {
+      "name": [
+         "Moritz",
+         "Wagner"
+      ],
+      "teams": [
+         2,
+         26,
+         41,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "1857": {
+      "name": [
+         "Carsen",
+         "Edwards"
+      ],
+      "teams": [
+         2,
+         2,
+         10
+      ],
+      "active": false
+   },
+   "1045": {
+      "name": [
+         "Robert",
+         "Williams III"
+      ],
+      "teams": [
+         2,
+         2,
+         2
+      ],
+      "active": true
+   },
+   "2042": {
+      "name": [
+         "Tacko",
+         "Fall"
+      ],
+      "teams": [
+         2,
+         7
+      ],
+      "active": false
+   },
+   "1874": {
+      "name": [
+         "Romeo",
+         "Langford"
+      ],
+      "teams": [
+         2,
+         2,
+         31,
+         31
+      ],
+      "active": true
+   },
+   "1898": {
+      "name": [
+         "Tremont",
+         "Waters"
+      ],
+      "teams": [
+         2,
+         14,
+         21,
+         38,
+         41
+      ],
+      "active": false
+   },
+   "1901": {
+      "name": [
+         "Grant",
+         "Williams"
+      ],
+      "teams": [
+         2,
+         2,
+         2
+      ],
+      "active": true
+   },
+   "2404": {
+      "name": [
+         "Javonte",
+         "Green"
+      ],
+      "teams": [
+         2,
+         6,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "2626": {
+      "name": [
+         "Aaron",
+         "Nesmith"
+      ],
+      "teams": [
+         2,
+         2,
+         15
+      ],
+      "active": true
+   },
+   "2635": {
+      "name": [
+         "Payton",
+         "Pritchard"
+      ],
+      "teams": [
+         2,
+         2,
+         2
+      ],
+      "active": true
+   },
+   "505": {
+      "name": [
+         "Jeff",
+         "Teague"
+      ],
+      "teams": [
+         2,
+         21
+      ],
+      "active": false
+   },
+   "515": {
+      "name": [
+         "Tristan",
+         "Thompson"
+      ],
+      "teams": [
+         2,
+         6,
+         15,
+         30
+      ],
+      "active": false
+   },
+   "538": {
+      "name": [
+         "Kemba",
+         "Walker"
+      ],
+      "teams": [
+         2,
+         24,
+         8
+      ],
+      "active": true
+   },
+   "177": {
+      "name": [
+         "Evan",
+         "Fournier"
+      ],
+      "teams": [
+         2,
+         26,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "486": {
+      "name": [
+         "Marcus",
+         "Smart"
+      ],
+      "teams": [
+         2,
+         2,
+         2
+      ],
+      "active": true
+   },
+   "410": {
+      "name": [
+         "Jabari",
+         "Parker"
+      ],
+      "teams": [
+         2,
+         30,
+         2
+      ],
+      "active": false
+   },
+   "317": {
+      "name": [
+         "Caris",
+         "LeVert"
+      ],
+      "teams": [
+         4,
+         15,
+         7,
+         15,
+         7
+      ],
+      "active": true
+   },
+   "437": {
+      "name": [
+         "Taurean",
+         "Prince"
+      ],
+      "teams": [
+         4,
+         7,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "329": {
+      "name": [
+         "Timothe",
+         "Luwawu-Cabarrot"
+      ],
+      "teams": [
+         4,
+         1,
+         28
+      ],
+      "active": true
+   },
+   "727": {
+      "name": [
+         "Jarrett",
+         "Allen"
+      ],
+      "teams": [
+         4,
+         7,
+         7,
+         7
+      ],
+      "active": true
+   },
+   "2782": {
+      "name": [
+         "Mike",
+         "James"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "944": {
+      "name": [
+         "Bruce",
+         "Brown"
+      ],
+      "teams": [
+         4,
+         4,
+         9
+      ],
+      "active": true
+   },
+   "983": {
+      "name": [
+         "Alize",
+         "Johnson"
+      ],
+      "teams": [
+         4,
+         38,
+         4,
+         6,
+         23,
+         41,
+         31
+      ],
+      "active": true
+   },
+   "1022": {
+      "name": [
+         "Landry",
+         "Shamet"
+      ],
+      "teams": [
+         4,
+         28,
+         28
+      ],
+      "active": true
+   },
+   "1009": {
+      "name": [
+         "Elie",
+         "Okobo"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "988": {
+      "name": [
+         "Rodions",
+         "Kurucs"
+      ],
+      "teams": [
+         4,
+         14,
+         21
+      ],
+      "active": false
+   },
+   "2166": {
+      "name": [
+         "Tyler",
+         "Cook"
+      ],
+      "teams": [
+         4,
+         10,
+         22,
+         6,
+         10
+      ],
+      "active": false
+   },
+   "1069": {
+      "name": [
+         "Chris",
+         "Chiozza"
+      ],
+      "teams": [
+         4,
+         11,
+         4
+      ],
+      "active": true
+   },
+   "2632": {
+      "name": [
+         "Reggie",
+         "Perry"
+      ],
+      "teams": [
+         4,
+         4,
+         15,
+         29,
+         38
+      ],
+      "active": false
+   },
+   "1854": {
+      "name": [
+         "Nic",
+         "Claxton"
+      ],
+      "teams": [
+         4,
+         4,
+         4
+      ],
+      "active": true
+   },
+   "2388": {
+      "name": [
+         "Jeremiah",
+         "Martin"
+      ],
+      "teams": [
+         4,
+         7,
+         1
+      ],
+      "active": false
+   },
+   "2583": {
+      "name": [
+         "Paul",
+         "Eboua"
+      ],
+      "teams": [
+         4,
+         20,
+         21
+      ],
+      "active": false
+   },
+   "8": {
+      "name": [
+         "LaMarcus",
+         "Aldridge"
+      ],
+      "teams": [
+         4,
+         31,
+         4
+      ],
+      "active": false
+   },
+   "153": {
+      "name": [
+         "Kevin",
+         "Durant"
+      ],
+      "teams": [
+         4,
+         4,
+         4,
+         28
+      ],
+      "active": true
+   },
+   "207": {
+      "name": [
+         "Jeff",
+         "Green"
+      ],
+      "teams": [
+         4,
+         9,
+         9
+      ],
+      "active": true
+   },
+   "286": {
+      "name": [
+         "DeAndre",
+         "Jordan"
+      ],
+      "teams": [
+         4,
+         17,
+         27,
+         9
+      ],
+      "active": true
+   },
+   "208": {
+      "name": [
+         "Blake",
+         "Griffin"
+      ],
+      "teams": [
+         4,
+         10,
+         4,
+         2
+      ],
+      "active": true
+   },
+   "216": {
+      "name": [
+         "James",
+         "Harden"
+      ],
+      "teams": [
+         4,
+         14,
+         4,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "261": {
+      "name": [
+         "Kyrie",
+         "Irving"
+      ],
+      "teams": [
+         4,
+         4,
+         4,
+         8
+      ],
+      "active": true
+   },
+   "478": {
+      "name": [
+         "Iman",
+         "Shumpert"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "449": {
+      "name": [
+         "Andre",
+         "Roberson"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "1012": {
+      "name": [
+         "Norvel",
+         "Pelle"
+      ],
+      "teams": [
+         4,
+         24,
+         30,
+         2,
+         40
+      ],
+      "active": false
+   },
+   "142": {
+      "name": [
+         "Spencer",
+         "Dinwiddie"
+      ],
+      "teams": [
+         4,
+         8,
+         41,
+         4,
+         8
+      ],
+      "active": true
+   },
+   "221": {
+      "name": [
+         "Joe",
+         "Harris"
+      ],
+      "teams": [
+         4,
+         4,
+         4
+      ],
+      "active": true
+   },
+   "533": {
+      "name": [
+         "Noah",
+         "Vonleh"
+      ],
+      "teams": [
+         4,
+         6,
+         2
+      ],
+      "active": true
+   },
+   "277": {
+      "name": [
+         "Tyler",
+         "Johnson"
+      ],
+      "teams": [
+         4,
+         27,
+         31
+      ],
+      "active": false
+   },
+   "458": {
+      "name": [
+         "Terry",
+         "Rozier"
+      ],
+      "teams": [
+         5,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "842": {
+      "name": [
+         "Malik",
+         "Monk"
+      ],
+      "teams": [
+         5,
+         17,
+         30
+      ],
+      "active": true
+   },
+   "941": {
+      "name": [
+         "Miles",
+         "Bridges"
+      ],
+      "teams": [
+         5,
+         5
+      ],
+      "active": false
+   },
+   "973": {
+      "name": [
+         "Devonte'",
+         "Graham"
+      ],
+      "teams": [
+         5,
+         23,
+         23,
+         31
+      ],
+      "active": true
+   },
+   "2242": {
+      "name": [
+         "Caleb",
+         "Martin"
+      ],
+      "teams": [
+         5,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "1879": {
+      "name": [
+         "Cody",
+         "Martin"
+      ],
+      "teams": [
+         5,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "1897": {
+      "name": [
+         "P.J.",
+         "Washington"
+      ],
+      "teams": [
+         5,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "2579": {
+      "name": [
+         "Javin",
+         "DeLaurier"
+      ],
+      "teams": [
+         5,
+         1,
+         21
+      ],
+      "active": false
+   },
+   "1880": {
+      "name": [
+         "Jalen",
+         "McDaniels"
+      ],
+      "teams": [
+         5,
+         5,
+         5,
+         27
+      ],
+      "active": true
+   },
+   "2566": {
+      "name": [
+         "LaMelo",
+         "Ball"
+      ],
+      "teams": [
+         5,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "2574": {
+      "name": [
+         "Vernon",
+         "Carey Jr."
+      ],
+      "teams": [
+         5,
+         5,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "2640": {
+      "name": [
+         "Grant",
+         "Riller"
+      ],
+      "teams": [
+         5,
+         5,
+         27
+      ],
+      "active": false
+   },
+   "2639": {
+      "name": [
+         "Nick",
+         "Richards"
+      ],
+      "teams": [
+         5,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "2674": {
+      "name": [
+         "Kahlil",
+         "Whitney"
+      ],
+      "teams": [
+         5,
+         11
+      ],
+      "active": false
+   },
+   "2578": {
+      "name": [
+         "Nate",
+         "Darling"
+      ],
+      "teams": [
+         5,
+         16
+      ],
+      "active": true
+   },
+   "2577": {
+      "name": [
+         "Keandre",
+         "Cook"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "2645": {
+      "name": [
+         "Xavier",
+         "Sneed"
+      ],
+      "teams": [
+         5,
+         5,
+         19,
+         40,
+         5
+      ],
+      "active": true
+   },
+   "227": {
+      "name": [
+         "Gordon",
+         "Hayward"
+      ],
+      "teams": [
+         5,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "54": {
+      "name": [
+         "Bismack",
+         "Biyombo"
+      ],
+      "teams": [
+         5,
+         28,
+         28
+      ],
+      "active": true
+   },
+   "1039": {
+      "name": [
+         "Brad",
+         "Wanamaker"
+      ],
+      "teams": [
+         5,
+         11,
+         15,
+         41
+      ],
+      "active": false
+   },
+   "571": {
+      "name": [
+         "Cody",
+         "Zeller"
+      ],
+      "teams": [
+         5,
+         29,
+         20,
+         40
+      ],
+      "active": true
+   },
+   "171": {
+      "name": [
+         "Cristiano",
+         "Felicio"
+      ],
+      "teams": [
+         6
+      ],
+      "active": false
+   },
+   "526": {
+      "name": [
+         "Denzel",
+         "Valentine"
+      ],
+      "teams": [
+         6,
+         7,
+         40
+      ],
+      "active": false
+   },
+   "609": {
+      "name": [
+         "Ryan",
+         "Arcidiacono"
+      ],
+      "teams": [
+         6,
+         2,
+         24,
+         24,
+         29
+      ],
+      "active": true
+   },
+   "830": {
+      "name": [
+         "Lauri",
+         "Markkanen"
+      ],
+      "teams": [
+         6,
+         7,
+         40
+      ],
+      "active": true
+   },
+   "945": {
+      "name": [
+         "Troy",
+         "Brown Jr."
+      ],
+      "teams": [
+         6,
+         41,
+         6,
+         17
+      ],
+      "active": true
+   },
+   "950": {
+      "name": [
+         "Wendell",
+         "Carter Jr."
+      ],
+      "teams": [
+         6,
+         26,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "981": {
+      "name": [
+         "Chandler",
+         "Hutchison"
+      ],
+      "teams": [
+         6,
+         41,
+         28
+      ],
+      "active": false
+   },
+   "1900": {
+      "name": [
+         "Coby",
+         "White"
+      ],
+      "teams": [
+         6,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "2582": {
+      "name": [
+         "Devon",
+         "Dotson"
+      ],
+      "teams": [
+         6,
+         6,
+         41
+      ],
+      "active": true
+   },
+   "1859": {
+      "name": [
+         "Daniel",
+         "Gafford"
+      ],
+      "teams": [
+         6,
+         41,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "1923": {
+      "name": [
+         "Zach",
+         "Norvell Jr."
+      ],
+      "teams": [
+         6,
+         31
+      ],
+      "active": false
+   },
+   "1993": {
+      "name": [
+         "Simisola",
+         "Shittu"
+      ],
+      "teams": [
+         6,
+         6
+      ],
+      "active": false
+   },
+   "2100": {
+      "name": [
+         "Adam",
+         "Mokoka"
+      ],
+      "teams": [
+         6
+      ],
+      "active": false
+   },
+   "2664": {
+      "name": [
+         "Patrick",
+         "Williams"
+      ],
+      "teams": [
+         6,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "570": {
+      "name": [
+         "Thaddeus",
+         "Young"
+      ],
+      "teams": [
+         6,
+         31,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "507": {
+      "name": [
+         "Garrett",
+         "Temple"
+      ],
+      "teams": [
+         6,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "12": {
+      "name": [
+         "Al-Farouq",
+         "Aminu"
+      ],
+      "teams": [
+         6,
+         26,
+         2,
+         31
+      ],
+      "active": false
+   },
+   "534": {
+      "name": [
+         "Nikola",
+         "Vucevic"
+      ],
+      "teams": [
+         6,
+         26,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "470": {
+      "name": [
+         "Tomas",
+         "Satoransky"
+      ],
+      "teams": [
+         6,
+         23,
+         31,
+         41
+      ],
+      "active": false
+   },
+   "430": {
+      "name": [
+         "Otto",
+         "Porter Jr."
+      ],
+      "teams": [
+         6,
+         26,
+         11,
+         38
+      ],
+      "active": true
+   },
+   "308": {
+      "name": [
+         "Zach",
+         "LaVine"
+      ],
+      "teams": [
+         6,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "581": {
+      "name": [
+         "Quinn",
+         "Cook"
+      ],
+      "teams": [
+         7,
+         17,
+         29,
+         30
+      ],
+      "active": true
+   },
+   "385": {
+      "name": [
+         "Larry",
+         "Nance Jr."
+      ],
+      "teams": [
+         7,
+         23,
+         29,
+         23
+      ],
+      "active": true
+   },
+   "854": {
+      "name": [
+         "Cedi",
+         "Osman"
+      ],
+      "teams": [
+         7,
+         7,
+         7
+      ],
+      "active": true
+   },
+   "1016": {
+      "name": [
+         "Levi",
+         "Randolph"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "335": {
+      "name": [
+         "Thon",
+         "Maker"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "598": {
+      "name": [
+         "Yogi",
+         "Ferrell"
+      ],
+      "teams": [
+         7,
+         16
+      ],
+      "active": false
+   },
+   "978": {
+      "name": [
+         "Isaiah",
+         "Hartenstein"
+      ],
+      "teams": [
+         7,
+         9,
+         16,
+         24
+      ],
+      "active": true
+   },
+   "768": {
+      "name": [
+         "Damyean",
+         "Dotson"
+      ],
+      "teams": [
+         7,
+         24
+      ],
+      "active": false
+   },
+   "1021": {
+      "name": [
+         "Collin",
+         "Sexton"
+      ],
+      "teams": [
+         7,
+         7,
+         40
+      ],
+      "active": true
+   },
+   "1860": {
+      "name": [
+         "Darius",
+         "Garland"
+      ],
+      "teams": [
+         7,
+         7,
+         7
+      ],
+      "active": true
+   },
+   "1888": {
+      "name": [
+         "Kevin",
+         "Porter Jr."
+      ],
+      "teams": [
+         7,
+         14,
+         14,
+         14
+      ],
+      "active": true
+   },
+   "1873": {
+      "name": [
+         "Mfiondu",
+         "Kabengele"
+      ],
+      "teams": [
+         7,
+         16,
+         30,
+         7,
+         2
+      ],
+      "active": true
+   },
+   "2618": {
+      "name": [
+         "Charles",
+         "Matthews"
+      ],
+      "teams": [
+         7,
+         27
+      ],
+      "active": false
+   },
+   "1903": {
+      "name": [
+         "Dylan",
+         "Windler"
+      ],
+      "teams": [
+         7,
+         7,
+         7
+      ],
+      "active": true
+   },
+   "2482": {
+      "name": [
+         "Marques",
+         "Bolden"
+      ],
+      "teams": [
+         7,
+         40,
+         41,
+         21
+      ],
+      "active": true
+   },
+   "2392": {
+      "name": [
+         "Dean",
+         "Wade"
+      ],
+      "teams": [
+         7,
+         7,
+         7
+      ],
+      "active": true
+   },
+   "2474": {
+      "name": [
+         "Matt",
+         "Mooney"
+      ],
+      "teams": [
+         7,
+         24,
+         40
+      ],
+      "active": false
+   },
+   "2630": {
+      "name": [
+         "Isaac",
+         "Okoro"
+      ],
+      "teams": [
+         7,
+         7,
+         7
+      ],
+      "active": true
+   },
+   "2647": {
+      "name": [
+         "Lamar",
+         "Stevens"
+      ],
+      "teams": [
+         7,
+         7,
+         7
+      ],
+      "active": true
+   },
+   "2654": {
+      "name": [
+         "Brodric",
+         "Thomas"
+      ],
+      "teams": [
+         7,
+         14,
+         2,
+         7,
+         2
+      ],
+      "active": true
+   },
+   "326": {
+      "name": [
+         "Kevin",
+         "Love"
+      ],
+      "teams": [
+         7,
+         7,
+         7,
+         20
+      ],
+      "active": true
+   },
+   "353": {
+      "name": [
+         "JaVale",
+         "McGee"
+      ],
+      "teams": [
+         7,
+         9,
+         28,
+         8
+      ],
+      "active": true
+   },
+   "147": {
+      "name": [
+         "Andre",
+         "Drummond"
+      ],
+      "teams": [
+         7,
+         17,
+         4,
+         27,
+         6
+      ],
+      "active": true
+   },
+   "134": {
+      "name": [
+         "Matthew",
+         "Dellavedova"
+      ],
+      "teams": [
+         7,
+         30
+      ],
+      "active": true
+   },
+   "164": {
+      "name": [
+         "Dante",
+         "Exum"
+      ],
+      "teams": [
+         7,
+         14,
+         14
+      ],
+      "active": false
+   },
+   "528": {
+      "name": [
+         "Anderson",
+         "Varejao"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "97": {
+      "name": [
+         "Willie",
+         "Cauley-Stein"
+      ],
+      "teams": [
+         8,
+         8,
+         27
+      ],
+      "active": false
+   },
+   "446": {
+      "name": [
+         "Josh",
+         "Richardson"
+      ],
+      "teams": [
+         8,
+         2,
+         31,
+         23,
+         31
+      ],
+      "active": true
+   },
+   "337": {
+      "name": [
+         "Boban",
+         "Marjanovic"
+      ],
+      "teams": [
+         8,
+         8,
+         14
+      ],
+      "active": true
+   },
+   "175": {
+      "name": [
+         "Dorian",
+         "Finney-Smith"
+      ],
+      "teams": [
+         8,
+         8,
+         4,
+         8
+      ],
+      "active": true
+   },
+   "802": {
+      "name": [
+         "Wes",
+         "Iwundu"
+      ],
+      "teams": [
+         8,
+         23,
+         1,
+         5,
+         29
+      ],
+      "active": true
+   },
+   "817": {
+      "name": [
+         "Maxi",
+         "Kleber"
+      ],
+      "teams": [
+         8,
+         8,
+         8
+      ],
+      "active": true
+   },
+   "946": {
+      "name": [
+         "Jalen",
+         "Brunson"
+      ],
+      "teams": [
+         8,
+         8,
+         24
+      ],
+      "active": true
+   },
+   "963": {
+      "name": [
+         "Luka",
+         "Doncic"
+      ],
+      "teams": [
+         8,
+         8,
+         8
+      ],
+      "active": true
+   },
+   "2491": {
+      "name": [
+         "Nicolo",
+         "Melli"
+      ],
+      "teams": [
+         8,
+         23
+      ],
+      "active": false
+   },
+   "2652": {
+      "name": [
+         "Tyrell",
+         "Terry"
+      ],
+      "teams": [
+         8,
+         8,
+         19
+      ],
+      "active": false
+   },
+   "2593": {
+      "name": [
+         "Josh",
+         "Green"
+      ],
+      "teams": [
+         8,
+         8,
+         8
+      ],
+      "active": true
+   },
+   "2570": {
+      "name": [
+         "Tyler",
+         "Bey"
+      ],
+      "teams": [
+         8,
+         6,
+         14
+      ],
+      "active": false
+   },
+   "2672": {
+      "name": [
+         "Nate",
+         "Hinton"
+      ],
+      "teams": [
+         8,
+         8,
+         15,
+         7
+      ],
+      "active": true
+   },
+   "2592": {
+      "name": [
+         "Freddie",
+         "Gillespie"
+      ],
+      "teams": [
+         8,
+         38,
+         26,
+         38
+      ],
+      "active": false
+   },
+   "2675": {
+      "name": [
+         "Devonte",
+         "Patterson"
+      ],
+      "teams": [
+         8
+      ],
+      "active": false
+   },
+   "444": {
+      "name": [
+         "JJ",
+         "Redick"
+      ],
+      "teams": [
+         8,
+         23
+      ],
+      "active": false
+   },
+   "311": {
+      "name": [
+         "Courtney",
+         "Lee"
+      ],
+      "teams": [
+         8
+      ],
+      "active": false
+   },
+   "274": {
+      "name": [
+         "James",
+         "Johnson"
+      ],
+      "teams": [
+         8,
+         23,
+         4,
+         15
+      ],
+      "active": true
+   },
+   "215": {
+      "name": [
+         "Tim",
+         "Hardaway Jr."
+      ],
+      "teams": [
+         8,
+         8,
+         8
+      ],
+      "active": true
+   },
+   "83": {
+      "name": [
+         "Trey",
+         "Burke"
+      ],
+      "teams": [
+         8,
+         8
+      ],
+      "active": false
+   },
+   "433": {
+      "name": [
+         "Dwight",
+         "Powell"
+      ],
+      "teams": [
+         8,
+         8,
+         8
+      ],
+      "active": true
+   },
+   "432": {
+      "name": [
+         "Kristaps",
+         "Porzingis"
+      ],
+      "teams": [
+         8,
+         8,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "383": {
+      "name": [
+         "Jamal",
+         "Murray"
+      ],
+      "teams": [
+         9,
+         9,
+         9
+      ],
+      "active": true
+   },
+   "626": {
+      "name": [
+         "Shaquille",
+         "Harrison"
+      ],
+      "teams": [
+         9,
+         40,
+         4,
+         19,
+         27,
+         17
+      ],
+      "active": true
+   },
+   "770": {
+      "name": [
+         "P.J.",
+         "Dozier"
+      ],
+      "teams": [
+         9,
+         9,
+         30
+      ],
+      "active": true
+   },
+   "845": {
+      "name": [
+         "Monte",
+         "Morris"
+      ],
+      "teams": [
+         9,
+         9,
+         41
+      ],
+      "active": true
+   },
+   "1312": {
+      "name": [
+         "Vlatko",
+         "Cancar"
+      ],
+      "teams": [
+         9,
+         9,
+         9
+      ],
+      "active": true
+   },
+   "1014": {
+      "name": [
+         "Michael",
+         "Porter Jr."
+      ],
+      "teams": [
+         9,
+         9,
+         9
+      ],
+      "active": true
+   },
+   "953": {
+      "name": [
+         "Gary",
+         "Clark"
+      ],
+      "teams": [
+         9,
+         26,
+         27,
+         23
+      ],
+      "active": false
+   },
+   "1849": {
+      "name": [
+         "Bol",
+         "Bol"
+      ],
+      "teams": [
+         9,
+         9,
+         26
+      ],
+      "active": true
+   },
+   "2597": {
+      "name": [
+         "R.J.",
+         "Hampton"
+      ],
+      "teams": [
+         9,
+         26,
+         26,
+         10,
+         26
+      ],
+      "active": true
+   },
+   "2627": {
+      "name": [
+         "Zeke",
+         "Nnaji"
+      ],
+      "teams": [
+         9,
+         9,
+         9
+      ],
+      "active": true
+   },
+   "2601": {
+      "name": [
+         "Markus",
+         "Howard"
+      ],
+      "teams": [
+         9,
+         9
+      ],
+      "active": false
+   },
+   "2573": {
+      "name": [
+         "Facundo",
+         "Campazzo"
+      ],
+      "teams": [
+         9,
+         9,
+         8
+      ],
+      "active": true
+   },
+   "366": {
+      "name": [
+         "Paul",
+         "Millsap"
+      ],
+      "teams": [
+         9,
+         4,
+         27
+      ],
+      "active": false
+   },
+   "448": {
+      "name": [
+         "Austin",
+         "Rivers"
+      ],
+      "teams": [
+         9,
+         24,
+         9,
+         22
+      ],
+      "active": true
+   },
+   "38": {
+      "name": [
+         "Will",
+         "Barton"
+      ],
+      "teams": [
+         9,
+         9,
+         38,
+         41
+      ],
+      "active": true
+   },
+   "206": {
+      "name": [
+         "JaMychal",
+         "Green"
+      ],
+      "teams": [
+         9,
+         9,
+         11
+      ],
+      "active": true
+   },
+   "220": {
+      "name": [
+         "Gary",
+         "Harris"
+      ],
+      "teams": [
+         9,
+         26,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "195": {
+      "name": [
+         "Aaron",
+         "Gordon"
+      ],
+      "teams": [
+         9,
+         26,
+         9,
+         9
+      ],
+      "active": true
+   },
+   "279": {
+      "name": [
+         "Nikola",
+         "Jokic"
+      ],
+      "teams": [
+         9,
+         9,
+         9
+      ],
+      "active": true
+   },
+   "2663": {
+      "name": [
+         "Greg",
+         "Whittington"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "402": {
+      "name": [
+         "Jahlil",
+         "Okafor"
+      ],
+      "teams": [
+         10,
+         1
+      ],
+      "active": false
+   },
+   "564": {
+      "name": [
+         "Delon",
+         "Wright"
+      ],
+      "teams": [
+         10,
+         30,
+         1,
+         41
+      ],
+      "active": true
+   },
+   "805": {
+      "name": [
+         "Josh",
+         "Jackson"
+      ],
+      "teams": [
+         10,
+         10,
+         30,
+         38
+      ],
+      "active": true
+   },
+   "876": {
+      "name": [
+         "Dennis",
+         "Smith Jr."
+      ],
+      "teams": [
+         10,
+         24,
+         29,
+         5
+      ],
+      "active": true
+   },
+   "804": {
+      "name": [
+         "Frank",
+         "Jackson"
+      ],
+      "teams": [
+         10,
+         25,
+         10,
+         28,
+         40
+      ],
+      "active": true
+   },
+   "960": {
+      "name": [
+         "Hamidou",
+         "Diallo"
+      ],
+      "teams": [
+         10,
+         25,
+         10,
+         10
+      ],
+      "active": true
+   },
+   "1006": {
+      "name": [
+         "Svi",
+         "Mykhailiuk"
+      ],
+      "teams": [
+         10,
+         25,
+         38,
+         5,
+         24
+      ],
+      "active": true
+   },
+   "1005": {
+      "name": [
+         "Dzanan",
+         "Musa"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "2567": {
+      "name": [
+         "LiAngelo",
+         "Ball"
+      ],
+      "teams": [
+         10,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "1856": {
+      "name": [
+         "Sekou",
+         "Doumbouya"
+      ],
+      "teams": [
+         10,
+         4,
+         10,
+         17
+      ],
+      "active": false
+   },
+   "2131": {
+      "name": [
+         "Louis",
+         "King"
+      ],
+      "teams": [
+         10,
+         30,
+         30
+      ],
+      "active": false
+   },
+   "1894": {
+      "name": [
+         "Deividas",
+         "Sirvydis"
+      ],
+      "teams": [
+         10,
+         10,
+         15
+      ],
+      "active": true
+   },
+   "2599": {
+      "name": [
+         "Killian",
+         "Hayes"
+      ],
+      "teams": [
+         10,
+         10,
+         10
+      ],
+      "active": true
+   },
+   "2569": {
+      "name": [
+         "Saddiq",
+         "Bey"
+      ],
+      "teams": [
+         10,
+         10,
+         1,
+         10
+      ],
+      "active": true
+   },
+   "2648": {
+      "name": [
+         "Isaiah",
+         "Stewart"
+      ],
+      "teams": [
+         10,
+         10,
+         10
+      ],
+      "active": true
+   },
+   "2609": {
+      "name": [
+         "Anthony",
+         "Lamb"
+      ],
+      "teams": [
+         10,
+         14,
+         14,
+         31,
+         11
+      ],
+      "active": true
+   },
+   "2610": {
+      "name": [
+         "Saben",
+         "Lee"
+      ],
+      "teams": [
+         10,
+         10,
+         27,
+         28,
+         40
+      ],
+      "active": true
+   },
+   "456": {
+      "name": [
+         "Derrick",
+         "Rose"
+      ],
+      "teams": [
+         10,
+         24,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "157": {
+      "name": [
+         "Wayne",
+         "Ellington"
+      ],
+      "teams": [
+         10,
+         17
+      ],
+      "active": false
+   },
+   "287": {
+      "name": [
+         "Cory",
+         "Joseph"
+      ],
+      "teams": [
+         10,
+         30,
+         10,
+         10
+      ],
+      "active": true
+   },
+   "426": {
+      "name": [
+         "Mason",
+         "Plumlee"
+      ],
+      "teams": [
+         10,
+         5,
+         5,
+         16
+      ],
+      "active": true
+   },
+   "354": {
+      "name": [
+         "Rodney",
+         "McGruder"
+      ],
+      "teams": [
+         10,
+         10,
+         10
+      ],
+      "active": true
+   },
+   "200": {
+      "name": [
+         "Jerami",
+         "Grant"
+      ],
+      "teams": [
+         10,
+         10,
+         29
+      ],
+      "active": true
+   },
+   "407": {
+      "name": [
+         "Kelly",
+         "Oubre Jr."
+      ],
+      "teams": [
+         11,
+         5,
+         5
+      ],
+      "active": true
+   },
+   "322": {
+      "name": [
+         "Kevon",
+         "Looney"
+      ],
+      "teams": [
+         11,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "518": {
+      "name": [
+         "Axel",
+         "Toupane"
+      ],
+      "teams": [
+         11,
+         21
+      ],
+      "active": false
+   },
+   "104": {
+      "name": [
+         "Marquese",
+         "Chriss"
+      ],
+      "teams": [
+         11,
+         31,
+         8,
+         29
+      ],
+      "active": false
+   },
+   "593": {
+      "name": [
+         "Gary",
+         "Payton II"
+      ],
+      "teams": [
+         11,
+         11,
+         29
+      ],
+      "active": true
+   },
+   "599": {
+      "name": [
+         "Damion",
+         "Lee"
+      ],
+      "teams": [
+         11,
+         11,
+         28
+      ],
+      "active": true
+   },
+   "738": {
+      "name": [
+         "Jordan",
+         "Bell"
+      ],
+      "teams": [
+         11,
+         41,
+         1,
+         6,
+         11
+      ],
+      "active": false
+   },
+   "2201": {
+      "name": [
+         "Mychal",
+         "Mulder"
+      ],
+      "teams": [
+         11,
+         11,
+         20,
+         26,
+         20
+      ],
+      "active": true
+   },
+   "1934": {
+      "name": [
+         "Juan",
+         "Toscano-Anderson"
+      ],
+      "teams": [
+         11,
+         11,
+         17,
+         40
+      ],
+      "active": true
+   },
+   "1895": {
+      "name": [
+         "Alen",
+         "Smailagic"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "1886": {
+      "name": [
+         "Eric",
+         "Paschall"
+      ],
+      "teams": [
+         11,
+         40,
+         22
+      ],
+      "active": true
+   },
+   "1887": {
+      "name": [
+         "Jordan",
+         "Poole"
+      ],
+      "teams": [
+         11,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "2662": {
+      "name": [
+         "Kaleb",
+         "Wesson"
+      ],
+      "teams": [
+         11,
+         16
+      ],
+      "active": false
+   },
+   "2666": {
+      "name": [
+         "James",
+         "Wiseman"
+      ],
+      "teams": [
+         11,
+         11,
+         10,
+         11
+      ],
+      "active": true
+   },
+   "2616": {
+      "name": [
+         "Nico",
+         "Mannion"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2649": {
+      "name": [
+         "Dwayne",
+         "Sutton"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "124": {
+      "name": [
+         "Stephen",
+         "Curry"
+      ],
+      "teams": [
+         11,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "514": {
+      "name": [
+         "Klay",
+         "Thompson"
+      ],
+      "teams": [
+         11,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "204": {
+      "name": [
+         "Draymond",
+         "Green"
+      ],
+      "teams": [
+         11,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "44": {
+      "name": [
+         "Kent",
+         "Bazemore"
+      ],
+      "teams": [
+         11,
+         17,
+         30
+      ],
+      "active": true
+   },
+   "548": {
+      "name": [
+         "Andrew",
+         "Wiggins"
+      ],
+      "teams": [
+         11,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "205": {
+      "name": [
+         "Gerald",
+         "Green"
+      ],
+      "teams": [
+         14
+      ],
+      "active": false
+   },
+   "201": {
+      "name": [
+         "Jerian",
+         "Grant"
+      ],
+      "teams": [
+         14
+      ],
+      "active": false
+   },
+   "560": {
+      "name": [
+         "Christian",
+         "Wood"
+      ],
+      "teams": [
+         14,
+         14,
+         8
+      ],
+      "active": true
+   },
+   "249": {
+      "name": [
+         "Danuel",
+         "House Jr."
+      ],
+      "teams": [
+         14,
+         14,
+         24,
+         40,
+         27
+      ],
+      "active": true
+   },
+   "723": {
+      "name": [
+         "David",
+         "Nwaba"
+      ],
+      "teams": [
+         14,
+         14,
+         25
+      ],
+      "active": true
+   },
+   "855": {
+      "name": [
+         "Justin",
+         "Patton"
+      ],
+      "teams": [
+         14,
+         21,
+         24
+      ],
+      "active": false
+   },
+   "899": {
+      "name": [
+         "D.J.",
+         "Wilson"
+      ],
+      "teams": [
+         14,
+         21,
+         25,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "1011": {
+      "name": [
+         "Cameron",
+         "Oliver"
+      ],
+      "teams": [
+         14,
+         1,
+         11,
+         17
+      ],
+      "active": false
+   },
+   "751": {
+      "name": [
+         "Sterling",
+         "Brown"
+      ],
+      "teams": [
+         14,
+         8,
+         17
+      ],
+      "active": true
+   },
+   "1033": {
+      "name": [
+         "Khyri",
+         "Thomas"
+      ],
+      "teams": [
+         14,
+         31,
+         14
+      ],
+      "active": false
+   },
+   "1027": {
+      "name": [
+         "Ray",
+         "Spalding"
+      ],
+      "teams": [
+         14
+      ],
+      "active": false
+   },
+   "1017": {
+      "name": [
+         "Cameron",
+         "Reynolds"
+      ],
+      "teams": [
+         14,
+         31
+      ],
+      "active": false
+   },
+   "2165": {
+      "name": [
+         "Chris",
+         "Clemons"
+      ],
+      "teams": [
+         14,
+         1
+      ],
+      "active": false
+   },
+   "1948": {
+      "name": [
+         "DaQuan",
+         "Jeffries"
+      ],
+      "teams": [
+         14,
+         30,
+         1,
+         19,
+         31
+      ],
+      "active": false
+   },
+   "2157": {
+      "name": [
+         "Kenny",
+         "Wooten"
+      ],
+      "teams": [
+         14,
+         22
+      ],
+      "active": false
+   },
+   "2325": {
+      "name": [
+         "Armoni",
+         "Brooks"
+      ],
+      "teams": [
+         14,
+         14,
+         38,
+         1
+      ],
+      "active": true
+   },
+   "2605": {
+      "name": [
+         "Mason",
+         "Jones"
+      ],
+      "teams": [
+         14,
+         27,
+         17,
+         41
+      ],
+      "active": false
+   },
+   "2617": {
+      "name": [
+         "Kenyon",
+         "Martin Jr."
+      ],
+      "teams": [
+         14,
+         14,
+         14
+      ],
+      "active": true
+   },
+   "2671": {
+      "name": [
+         "Trevelin",
+         "Queen"
+      ],
+      "teams": [
+         14,
+         14,
+         17,
+         15,
+         27
+      ],
+      "active": true
+   },
+   "2650": {
+      "name": [
+         "Jae'Sean",
+         "Tate"
+      ],
+      "teams": [
+         14,
+         14,
+         14
+      ],
+      "active": true
+   },
+   "520": {
+      "name": [
+         "P.J.",
+         "Tucker"
+      ],
+      "teams": [
+         14,
+         21,
+         20,
+         27
+      ],
+      "active": true
+   },
+   "196": {
+      "name": [
+         "Eric",
+         "Gordon"
+      ],
+      "teams": [
+         14,
+         14,
+         14,
+         16
+      ],
+      "active": true
+   },
+   "28": {
+      "name": [
+         "D.J.",
+         "Augustin"
+      ],
+      "teams": [
+         14,
+         21,
+         14,
+         17
+      ],
+      "active": false
+   },
+   "539": {
+      "name": [
+         "John",
+         "Wall"
+      ],
+      "teams": [
+         14,
+         14,
+         16
+      ],
+      "active": true
+   },
+   "117": {
+      "name": [
+         "DeMarcus",
+         "Cousins"
+      ],
+      "teams": [
+         14,
+         16,
+         9,
+         21
+      ],
+      "active": false
+   },
+   "68": {
+      "name": [
+         "Avery",
+         "Bradley"
+      ],
+      "teams": [
+         14,
+         20,
+         11,
+         17
+      ],
+      "active": false
+   },
+   "355": {
+      "name": [
+         "Ben",
+         "McLemore"
+      ],
+      "teams": [
+         14,
+         17,
+         29
+      ],
+      "active": false
+   },
+   "404": {
+      "name": [
+         "Kelly",
+         "Olynyk"
+      ],
+      "teams": [
+         14,
+         20,
+         10,
+         40
+      ],
+      "active": true
+   },
+   "403": {
+      "name": [
+         "Victor",
+         "Oladipo"
+      ],
+      "teams": [
+         14,
+         15,
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "87": {
+      "name": [
+         "Bruno",
+         "Caboclo"
+      ],
+      "teams": [
+         14
+      ],
+      "active": false
+   },
+   "522": {
+      "name": [
+         "Myles",
+         "Turner"
+      ],
+      "teams": [
+         15,
+         15,
+         15
+      ],
+      "active": true
+   },
+   "463": {
+      "name": [
+         "Domantas",
+         "Sabonis"
+      ],
+      "teams": [
+         15,
+         15,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "71": {
+      "name": [
+         "Malcolm",
+         "Brogdon"
+      ],
+      "teams": [
+         15,
+         15,
+         2
+      ],
+      "active": true
+   },
+   "880": {
+      "name": [
+         "Edmond",
+         "Sumner"
+      ],
+      "teams": [
+         15,
+         4,
+         15,
+         4
+      ],
+      "active": true
+   },
+   "1002": {
+      "name": [
+         "Naz",
+         "Mitrou-Long"
+      ],
+      "teams": [
+         15
+      ],
+      "active": false
+   },
+   "1055": {
+      "name": [
+         "Amida",
+         "Brimah"
+      ],
+      "teams": [
+         15,
+         15
+      ],
+      "active": false
+   },
+   "1056": {
+      "name": [
+         "Brian",
+         "Bowen II"
+      ],
+      "teams": [
+         15,
+         22
+      ],
+      "active": false
+   },
+   "979": {
+      "name": [
+         "Aaron",
+         "Holiday"
+      ],
+      "teams": [
+         15,
+         28,
+         41,
+         1
+      ],
+      "active": true
+   },
+   "1848": {
+      "name": [
+         "Goga",
+         "Bitadze"
+      ],
+      "teams": [
+         15,
+         15,
+         15,
+         26
+      ],
+      "active": true
+   },
+   "2110": {
+      "name": [
+         "Oshae",
+         "Brissett"
+      ],
+      "teams": [
+         15,
+         38,
+         15,
+         15
+      ],
+      "active": true
+   },
+   "1514": {
+      "name": [
+         "Kelan",
+         "Martin"
+      ],
+      "teams": [
+         15,
+         2,
+         15,
+         23
+      ],
+      "active": true
+   },
+   "2197": {
+      "name": [
+         "Jalen",
+         "Lecque"
+      ],
+      "teams": [
+         15,
+         25
+      ],
+      "active": false
+   },
+   "2646": {
+      "name": [
+         "Cassius",
+         "Stanley"
+      ],
+      "teams": [
+         15,
+         10,
+         15
+      ],
+      "active": false
+   },
+   "2596": {
+      "name": [
+         "Rayshaun",
+         "Hammonds"
+      ],
+      "teams": [
+         15,
+         38
+      ],
+      "active": false
+   },
+   "303": {
+      "name": [
+         "Jeremy",
+         "Lamb"
+      ],
+      "teams": [
+         15,
+         15,
+         30
+      ],
+      "active": false
+   },
+   "243": {
+      "name": [
+         "Justin",
+         "Holiday"
+      ],
+      "teams": [
+         15,
+         15,
+         30,
+         1,
+         8
+      ],
+      "active": true
+   },
+   "351": {
+      "name": [
+         "Doug",
+         "McDermott"
+      ],
+      "teams": [
+         15,
+         31,
+         31
+      ],
+      "active": true
+   },
+   "540": {
+      "name": [
+         "T.J.",
+         "Warren"
+      ],
+      "teams": [
+         15,
+         15,
+         4,
+         28
+      ],
+      "active": true
+   },
+   "466": {
+      "name": [
+         "JaKarr",
+         "Sampson"
+      ],
+      "teams": [
+         15
+      ],
+      "active": false
+   },
+   "348": {
+      "name": [
+         "T.J.",
+         "McConnell"
+      ],
+      "teams": [
+         15,
+         15,
+         15
+      ],
+      "active": true
+   },
+   "218": {
+      "name": [
+         "Montrezl",
+         "Harrell"
+      ],
+      "teams": [
+         17,
+         5,
+         41,
+         27
+      ],
+      "active": true
+   },
+   "281": {
+      "name": [
+         "Damian",
+         "Jones"
+      ],
+      "teams": [
+         17,
+         28,
+         30,
+         30,
+         17,
+         40
+      ],
+      "active": true
+   },
+   "631": {
+      "name": [
+         "Alex",
+         "Caruso"
+      ],
+      "teams": [
+         17,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "835": {
+      "name": [
+         "Alfonzo",
+         "McKinnie"
+      ],
+      "teams": [
+         17,
+         6
+      ],
+      "active": false
+   },
+   "820": {
+      "name": [
+         "Kyle",
+         "Kuzma"
+      ],
+      "teams": [
+         17,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "928": {
+      "name": [
+         "Kostas",
+         "Antetokounmpo"
+      ],
+      "teams": [
+         17,
+         6
+      ],
+      "active": true
+   },
+   "1867": {
+      "name": [
+         "Talen",
+         "Horton-Tucker"
+      ],
+      "teams": [
+         17,
+         17,
+         40
+      ],
+      "active": true
+   },
+   "2387": {
+      "name": [
+         "Devontae",
+         "Cacok"
+      ],
+      "teams": [
+         17,
+         4,
+         17,
+         31,
+         29
+      ],
+      "active": true
+   },
+   "148": {
+      "name": [
+         "Jared",
+         "Dudley"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "184": {
+      "name": [
+         "Marc",
+         "Gasol"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "341": {
+      "name": [
+         "Wesley",
+         "Matthews"
+      ],
+      "teams": [
+         17,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "374": {
+      "name": [
+         "Markieff",
+         "Morris"
+      ],
+      "teams": [
+         17,
+         20,
+         4,
+         8
+      ],
+      "active": true
+   },
+   "126": {
+      "name": [
+         "Anthony",
+         "Davis"
+      ],
+      "teams": [
+         17,
+         17,
+         17
+      ],
+      "active": true
+   },
+   "472": {
+      "name": [
+         "Dennis",
+         "Schroder"
+      ],
+      "teams": [
+         17,
+         2,
+         14,
+         17
+      ],
+      "active": true
+   },
+   "89": {
+      "name": [
+         "Kentavious",
+         "Caldwell-Pope"
+      ],
+      "teams": [
+         17,
+         41,
+         9
+      ],
+      "active": true
+   },
+   "265": {
+      "name": [
+         "LeBron",
+         "James"
+      ],
+      "teams": [
+         17,
+         17,
+         17
+      ],
+      "active": true
+   },
+   "2780": {
+      "name": [
+         "DeMarcus",
+         "Cousins"
+      ],
+      "teams": [
+         16
+      ],
+      "active": false
+   },
+   "575": {
+      "name": [
+         "Ivica",
+         "Zubac"
+      ],
+      "teams": [
+         16,
+         16,
+         16
+      ],
+      "active": true
+   },
+   "814": {
+      "name": [
+         "Luke",
+         "Kennard"
+      ],
+      "teams": [
+         16,
+         16,
+         16,
+         19
+      ],
+      "active": true
+   },
+   "1908": {
+      "name": [
+         "Ky",
+         "Bowman"
+      ],
+      "teams": [
+         16
+      ],
+      "active": false
+   },
+   "2115": {
+      "name": [
+         "Amir",
+         "Coffey"
+      ],
+      "teams": [
+         16,
+         16,
+         16
+      ],
+      "active": true
+   },
+   "1877": {
+      "name": [
+         "Terance",
+         "Mann"
+      ],
+      "teams": [
+         16,
+         16,
+         16
+      ],
+      "active": true
+   },
+   "2152": {
+      "name": [
+         "Rayjon",
+         "Tucker"
+      ],
+      "teams": [
+         16,
+         27,
+         9,
+         21,
+         22,
+         27
+      ],
+      "active": false
+   },
+   "2631": {
+      "name": [
+         "Daniel",
+         "Oturu"
+      ],
+      "teams": [
+         16,
+         6,
+         38
+      ],
+      "active": false
+   },
+   "2641": {
+      "name": [
+         "Jay",
+         "Scrubb"
+      ],
+      "teams": [
+         16,
+         16
+      ],
+      "active": false
+   },
+   "2586": {
+      "name": [
+         "Malik",
+         "Fitts"
+      ],
+      "teams": [
+         16,
+         2,
+         16,
+         40,
+         16
+      ],
+      "active": true
+   },
+   "2588": {
+      "name": [
+         "Jordan",
+         "Ford"
+      ],
+      "teams": [
+         16,
+         16
+      ],
+      "active": false
+   },
+   "255": {
+      "name": [
+         "Serge",
+         "Ibaka"
+      ],
+      "teams": [
+         16,
+         16,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "40": {
+      "name": [
+         "Nicolas",
+         "Batum"
+      ],
+      "teams": [
+         16,
+         16,
+         16
+      ],
+      "active": true
+   },
+   "53": {
+      "name": [
+         "Patrick",
+         "Beverley"
+      ],
+      "teams": [
+         16,
+         22,
+         6,
+         17
+      ],
+      "active": true
+   },
+   "2781": {
+      "name": [
+         "DeMarcus ",
+         "Cousins"
+      ],
+      "teams": [
+         16
+      ],
+      "active": false
+   },
+   "189": {
+      "name": [
+         "Paul",
+         "George"
+      ],
+      "teams": [
+         16,
+         16,
+         16
+      ],
+      "active": true
+   },
+   "414": {
+      "name": [
+         "Patrick",
+         "Patterson"
+      ],
+      "teams": [
+         16,
+         29
+      ],
+      "active": false
+   },
+   "373": {
+      "name": [
+         "Marcus",
+         "Morris Sr."
+      ],
+      "teams": [
+         16,
+         16,
+         16
+      ],
+      "active": true
+   },
+   "314": {
+      "name": [
+         "Kawhi",
+         "Leonard"
+      ],
+      "teams": [
+         16,
+         16,
+         16
+      ],
+      "active": true
+   },
+   "264": {
+      "name": [
+         "Reggie",
+         "Jackson"
+      ],
+      "teams": [
+         16,
+         16,
+         9,
+         16
+      ],
+      "active": true
+   },
+   "285": {
+      "name": [
+         "Tyus",
+         "Jones"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "558": {
+      "name": [
+         "Justise",
+         "Winslow"
+      ],
+      "teams": [
+         19,
+         16,
+         29,
+         29
+      ],
+      "active": true
+   },
+   "749": {
+      "name": [
+         "Dillon",
+         "Brooks"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "926": {
+      "name": [
+         "Grayson",
+         "Allen"
+      ],
+      "teams": [
+         19,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "982": {
+      "name": [
+         "Jaren",
+         "Jackson Jr."
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "998": {
+      "name": [
+         "De'Anthony",
+         "Melton"
+      ],
+      "teams": [
+         19,
+         19,
+         27
+      ],
+      "active": true
+   },
+   "2557": {
+      "name": [
+         "Jontay",
+         "Porter"
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "2108": {
+      "name": [
+         "Bennie",
+         "Boatwright"
+      ],
+      "teams": [
+         19,
+         15
+      ],
+      "active": false
+   },
+   "1881": {
+      "name": [
+         "Ja",
+         "Morant"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "1853": {
+      "name": [
+         "Brandon",
+         "Clarke"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "2655": {
+      "name": [
+         "Killian",
+         "Tillie"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "2177": {
+      "name": [
+         "John",
+         "Konchar"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "2412": {
+      "name": [
+         "Marko",
+         "Guduric"
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "2682": {
+      "name": [
+         "Shaq",
+         "Buchanan"
+      ],
+      "teams": [
+         19,
+         19
+      ],
+      "active": false
+   },
+   "2529": {
+      "name": [
+         "Ahmad",
+         "Caver"
+      ],
+      "teams": [
+         19,
+         15,
+         19
+      ],
+      "active": false
+   },
+   "2656": {
+      "name": [
+         "Xavier",
+         "Tillman"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "2568": {
+      "name": [
+         "Desmond",
+         "Bane"
+      ],
+      "teams": [
+         19,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "2622": {
+      "name": [
+         "Sean",
+         "McDermott"
+      ],
+      "teams": [
+         19,
+         19
+      ],
+      "active": false
+   },
+   "2659": {
+      "name": [
+         "Jahlil",
+         "Tripp"
+      ],
+      "teams": [
+         19,
+         31
+      ],
+      "active": false
+   },
+   "525": {
+      "name": [
+         "Jonas",
+         "Valanciunas"
+      ],
+      "teams": [
+         19,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "141": {
+      "name": [
+         "Gorgui",
+         "Dieng"
+      ],
+      "teams": [
+         19,
+         31,
+         1,
+         31
+      ],
+      "active": true
+   },
+   "18": {
+      "name": [
+         "Kyle",
+         "Anderson"
+      ],
+      "teams": [
+         19,
+         19,
+         22
+      ],
+      "active": true
+   },
+   "179": {
+      "name": [
+         "Tim",
+         "Frazier"
+      ],
+      "teams": [
+         19,
+         7,
+         26
+      ],
+      "active": false
+   },
+   "724": {
+      "name": [
+         "Bam",
+         "Adebayo"
+      ],
+      "teams": [
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "1018": {
+      "name": [
+         "Duncan",
+         "Robinson"
+      ],
+      "teams": [
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "1007": {
+      "name": [
+         "Kendrick",
+         "Nunn"
+      ],
+      "teams": [
+         20,
+         17,
+         17,
+         41
+      ],
+      "active": true
+   },
+   "1067": {
+      "name": [
+         "BJ",
+         "Johnson"
+      ],
+      "teams": [
+         20,
+         15,
+         26
+      ],
+      "active": false
+   },
+   "1775": {
+      "name": [
+         "Gabe",
+         "Vincent"
+      ],
+      "teams": [
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "2051": {
+      "name": [
+         "Max",
+         "Strus"
+      ],
+      "teams": [
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "1866": {
+      "name": [
+         "Tyler",
+         "Herro"
+      ],
+      "teams": [
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "1884": {
+      "name": [
+         "KZ",
+         "Okpala"
+      ],
+      "teams": [
+         20,
+         20,
+         30
+      ],
+      "active": true
+   },
+   "2391": {
+      "name": [
+         "Chris",
+         "Silva"
+      ],
+      "teams": [
+         20,
+         30,
+         4,
+         20,
+         22,
+         1,
+         8
+      ],
+      "active": true
+   },
+   "2561": {
+      "name": [
+         "Precious",
+         "Achiuwa"
+      ],
+      "teams": [
+         20,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "2660": {
+      "name": [
+         "Breein",
+         "Tyree"
+      ],
+      "teams": [
+         20
+      ],
+      "active": false
+   },
+   "146": {
+      "name": [
+         "Goran",
+         "Dragic"
+      ],
+      "teams": [
+         20,
+         4,
+         38,
+         6
+      ],
+      "active": true
+   },
+   "55": {
+      "name": [
+         "Nemanja",
+         "Bjelica"
+      ],
+      "teams": [
+         20,
+         30,
+         11
+      ],
+      "active": false
+   },
+   "86": {
+      "name": [
+         "Jimmy",
+         "Butler"
+      ],
+      "teams": [
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "315": {
+      "name": [
+         "Meyers",
+         "Leonard"
+      ],
+      "teams": [
+         20,
+         21
+      ],
+      "active": true
+   },
+   "217": {
+      "name": [
+         "Maurice",
+         "Harkless"
+      ],
+      "teams": [
+         20,
+         30,
+         30
+      ],
+      "active": false
+   },
+   "131": {
+      "name": [
+         "Dewayne",
+         "Dedmon"
+      ],
+      "teams": [
+         20,
+         20,
+         20,
+         27
+      ],
+      "active": true
+   },
+   "225": {
+      "name": [
+         "Udonis",
+         "Haslem"
+      ],
+      "teams": [
+         20,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "256": {
+      "name": [
+         "Andre",
+         "Iguodala"
+      ],
+      "teams": [
+         20,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "23": {
+      "name": [
+         "Trevor",
+         "Ariza"
+      ],
+      "teams": [
+         20,
+         25,
+         17
+      ],
+      "active": false
+   },
+   "431": {
+      "name": [
+         "Bobby",
+         "Portis"
+      ],
+      "teams": [
+         21,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "115": {
+      "name": [
+         "Pat",
+         "Connaughton"
+      ],
+      "teams": [
+         21,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "199": {
+      "name": [
+         "Treveon",
+         "Graham"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "176": {
+      "name": [
+         "Bryn",
+         "Forbes"
+      ],
+      "teams": [
+         21,
+         9,
+         31,
+         22
+      ],
+      "active": true
+   },
+   "806": {
+      "name": [
+         "Justin",
+         "Jackson"
+      ],
+      "teams": [
+         21,
+         25,
+         2,
+         28,
+         2,
+         25
+      ],
+      "active": true
+   },
+   "765": {
+      "name": [
+         "Torrey",
+         "Craig"
+      ],
+      "teams": [
+         21,
+         28,
+         15,
+         28,
+         28
+      ],
+      "active": true
+   },
+   "962": {
+      "name": [
+         "Donte",
+         "DiVincenzo"
+      ],
+      "teams": [
+         21,
+         21,
+         30,
+         11
+      ],
+      "active": true
+   },
+   "1308": {
+      "name": [
+         "Elijah",
+         "Bryant"
+      ],
+      "teams": [
+         21,
+         21
+      ],
+      "active": false
+   },
+   "921": {
+      "name": [
+         "Jaylen",
+         "Adams"
+      ],
+      "teams": [
+         21,
+         6
+      ],
+      "active": false
+   },
+   "2580": {
+      "name": [
+         "Mamadi",
+         "Diakite"
+      ],
+      "teams": [
+         21,
+         21,
+         25,
+         7
+      ],
+      "active": true
+   },
+   "2628": {
+      "name": [
+         "Jordan",
+         "Nwora"
+      ],
+      "teams": [
+         21,
+         21,
+         15,
+         21
+      ],
+      "active": true
+   },
+   "2623": {
+      "name": [
+         "Sam",
+         "Merrill"
+      ],
+      "teams": [
+         21,
+         19,
+         7,
+         30
+      ],
+      "active": true
+   },
+   "2624": {
+      "name": [
+         "E.J.",
+         "Montgomery"
+      ],
+      "teams": [
+         21,
+         21
+      ],
+      "active": false
+   },
+   "323": {
+      "name": [
+         "Brook",
+         "Lopez"
+      ],
+      "teams": [
+         21,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "242": {
+      "name": [
+         "Jrue",
+         "Holiday"
+      ],
+      "teams": [
+         21,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "361": {
+      "name": [
+         "Khris",
+         "Middleton"
+      ],
+      "teams": [
+         21,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "20": {
+      "name": [
+         "Giannis",
+         "Antetokounmpo"
+      ],
+      "teams": [
+         21,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "2408": {
+      "name": [
+         "Thanasis",
+         "Antetokounmpo"
+      ],
+      "teams": [
+         21,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "496": {
+      "name": [
+         "Nik",
+         "Stauskas"
+      ],
+      "teams": [
+         21,
+         2,
+         20
+      ],
+      "active": false
+   },
+   "462": {
+      "name": [
+         "D'Angelo",
+         "Russell"
+      ],
+      "teams": [
+         22,
+         22,
+         17,
+         22
+      ],
+      "active": true
+   },
+   "519": {
+      "name": [
+         "Karl-Anthony",
+         "Towns"
+      ],
+      "teams": [
+         22,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "245": {
+      "name": [
+         "Rondae",
+         "Hollis-Jefferson"
+      ],
+      "teams": [
+         22,
+         29
+      ],
+      "active": false
+   },
+   "46": {
+      "name": [
+         "Malik",
+         "Beasley"
+      ],
+      "teams": [
+         22,
+         22,
+         17,
+         40
+      ],
+      "active": true
+   },
+   "310": {
+      "name": [
+         "Jake",
+         "Layman"
+      ],
+      "teams": [
+         22,
+         22,
+         2
+      ],
+      "active": true
+   },
+   "230": {
+      "name": [
+         "Juancho",
+         "Hernangomez"
+      ],
+      "teams": [
+         22,
+         2,
+         31,
+         40,
+         38
+      ],
+      "active": true
+   },
+   "1010": {
+      "name": [
+         "Josh",
+         "Okogie"
+      ],
+      "teams": [
+         22,
+         22,
+         28
+      ],
+      "active": true
+   },
+   "1036": {
+      "name": [
+         "Jarred",
+         "Vanderbilt"
+      ],
+      "teams": [
+         22,
+         22,
+         17,
+         40
+      ],
+      "active": true
+   },
+   "997": {
+      "name": [
+         "Jordan",
+         "McLaughlin"
+      ],
+      "teams": [
+         22,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "1855": {
+      "name": [
+         "Jarrett",
+         "Culver"
+      ],
+      "teams": [
+         22,
+         19,
+         1
+      ],
+      "active": true
+   },
+   "1882": {
+      "name": [
+         "Jaylen",
+         "Nowell"
+      ],
+      "teams": [
+         22,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "2146": {
+      "name": [
+         "Naz",
+         "Reid"
+      ],
+      "teams": [
+         22,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "2111": {
+      "name": [
+         "Charlie",
+         "Brown Jr."
+      ],
+      "teams": [
+         22,
+         25,
+         8,
+         25,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "2584": {
+      "name": [
+         "Anthony",
+         "Edwards"
+      ],
+      "teams": [
+         22,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "2621": {
+      "name": [
+         "Jaden",
+         "McDaniels"
+      ],
+      "teams": [
+         22,
+         22,
+         22
+      ],
+      "active": true
+   },
+   "2594": {
+      "name": [
+         "Ashton",
+         "Hagans"
+      ],
+      "teams": [
+         22,
+         38
+      ],
+      "active": false
+   },
+   "2625": {
+      "name": [
+         "Ade",
+         "Murkey"
+      ],
+      "teams": [
+         22,
+         30
+      ],
+      "active": false
+   },
+   "459": {
+      "name": [
+         "Ricky",
+         "Rubio"
+      ],
+      "teams": [
+         22,
+         7,
+         15,
+         7
+      ],
+      "active": true
+   },
+   "128": {
+      "name": [
+         "Ed",
+         "Davis"
+      ],
+      "teams": [
+         22,
+         7
+      ],
+      "active": false
+   },
+   "231": {
+      "name": [
+         "Willy",
+         "Hernangomez"
+      ],
+      "teams": [
+         23,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "260": {
+      "name": [
+         "Brandon",
+         "Ingram"
+      ],
+      "teams": [
+         23,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "595": {
+      "name": [
+         "Jarrod",
+         "Uthoff"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "735": {
+      "name": [
+         "Lonzo",
+         "Ball"
+      ],
+      "teams": [
+         23,
+         6
+      ],
+      "active": false
+   },
+   "731": {
+      "name": [
+         "Ike",
+         "Anigbogu"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "791": {
+      "name": [
+         "Josh",
+         "Hart"
+      ],
+      "teams": [
+         23,
+         23,
+         29,
+         24,
+         29
+      ],
+      "active": true
+   },
+   "887": {
+      "name": [
+         "Sindarius",
+         "Thornwell"
+      ],
+      "teams": [
+         23,
+         26
+      ],
+      "active": false
+   },
+   "925": {
+      "name": [
+         "Rawle",
+         "Alkins"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "1313": {
+      "name": [
+         "Tony",
+         "Carr"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "970": {
+      "name": [
+         "Wenyen",
+         "Gabriel"
+      ],
+      "teams": [
+         23,
+         4,
+         17,
+         16,
+         23,
+         17
+      ],
+      "active": true
+   },
+   "1902": {
+      "name": [
+         "Zion",
+         "Williamson"
+      ],
+      "teams": [
+         23,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "1864": {
+      "name": [
+         "Jaxson",
+         "Hayes"
+      ],
+      "teams": [
+         23,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "1845": {
+      "name": [
+         "Nickeil",
+         "Alexander-Walker"
+      ],
+      "teams": [
+         23,
+         23,
+         40,
+         22,
+         40
+      ],
+      "active": true
+   },
+   "1876": {
+      "name": [
+         "Didi",
+         "Louzada"
+      ],
+      "teams": [
+         23,
+         23,
+         29
+      ],
+      "active": false
+   },
+   "2611": {
+      "name": [
+         "Kira",
+         "Lewis Jr."
+      ],
+      "teams": [
+         23,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "2668": {
+      "name": [
+         "Naji",
+         "Marshall"
+      ],
+      "teams": [
+         23,
+         23,
+         23
+      ],
+      "active": true
+   },
+   "2613": {
+      "name": [
+         "Will",
+         "Magnay"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "59": {
+      "name": [
+         "Eric",
+         "Bledsoe"
+      ],
+      "teams": [
+         23,
+         16,
+         29
+      ],
+      "active": false
+   },
+   "510": {
+      "name": [
+         "Isaiah",
+         "Thomas"
+      ],
+      "teams": [
+         23,
+         5,
+         8,
+         17
+      ],
+      "active": false
+   },
+   "1008": {
+      "name": [
+         "James",
+         "Nunnally"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "4": {
+      "name": [
+         "Steven",
+         "Adams"
+      ],
+      "teams": [
+         23,
+         19,
+         19
+      ],
+      "active": true
+   },
+   "302": {
+      "name": [
+         "Skal",
+         "Labissiere"
+      ],
+      "teams": [
+         24,
+         31
+      ],
+      "active": false
+   },
+   "850": {
+      "name": [
+         "Frank",
+         "Ntilikina"
+      ],
+      "teams": [
+         24,
+         8,
+         8
+      ],
+      "active": true
+   },
+   "987": {
+      "name": [
+         "Kevin",
+         "Knox II"
+      ],
+      "teams": [
+         24,
+         1,
+         24,
+         10,
+         29
+      ],
+      "active": true
+   },
+   "1020": {
+      "name": [
+         "Mitchell",
+         "Robinson"
+      ],
+      "teams": [
+         24,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "1028": {
+      "name": [
+         "Omari",
+         "Spellman"
+      ],
+      "teams": [
+         24,
+         6
+      ],
+      "active": false
+   },
+   "1013": {
+      "name": [
+         "Theo",
+         "Pinson"
+      ],
+      "teams": [
+         24,
+         2,
+         8,
+         21,
+         8
+      ],
+      "active": true
+   },
+   "1909": {
+      "name": [
+         "Bryce",
+         "Brown"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "2194": {
+      "name": [
+         "Jared",
+         "Harper"
+      ],
+      "teams": [
+         24,
+         23
+      ],
+      "active": false
+   },
+   "2634": {
+      "name": [
+         "Myles",
+         "Powell"
+      ],
+      "teams": [
+         24,
+         27
+      ],
+      "active": false
+   },
+   "1846": {
+      "name": [
+         "RJ",
+         "Barrett"
+      ],
+      "teams": [
+         24,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "1852": {
+      "name": [
+         "Ignas",
+         "Brazdeikis"
+      ],
+      "teams": [
+         24,
+         26,
+         27,
+         26
+      ],
+      "active": false
+   },
+   "2658": {
+      "name": [
+         "Obi",
+         "Toppin"
+      ],
+      "teams": [
+         24,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "2636": {
+      "name": [
+         "Immanuel",
+         "Quickley"
+      ],
+      "teams": [
+         24,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "190": {
+      "name": [
+         "Taj",
+         "Gibson"
+      ],
+      "teams": [
+         24,
+         24,
+         41
+      ],
+      "active": true
+   },
+   "84": {
+      "name": [
+         "Alec",
+         "Burks"
+      ],
+      "teams": [
+         24,
+         24,
+         10
+      ],
+      "active": true
+   },
+   "295": {
+      "name": [
+         "Michael",
+         "Kidd-Gilchrist"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "394": {
+      "name": [
+         "Nerlens",
+         "Noel"
+      ],
+      "teams": [
+         24,
+         24,
+         4,
+         10
+      ],
+      "active": true
+   },
+   "82": {
+      "name": [
+         "Reggie",
+         "Bullock"
+      ],
+      "teams": [
+         24,
+         8,
+         8
+      ],
+      "active": true
+   },
+   "418": {
+      "name": [
+         "Elfrid",
+         "Payton"
+      ],
+      "teams": [
+         24,
+         28
+      ],
+      "active": false
+   },
+   "441": {
+      "name": [
+         "Julius",
+         "Randle"
+      ],
+      "teams": [
+         24,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "821": {
+      "name": [
+         "T.J.",
+         "Leaf"
+      ],
+      "teams": [
+         25,
+         29
+      ],
+      "active": false
+   },
+   "748": {
+      "name": [
+         "Tony",
+         "Bradley"
+      ],
+      "teams": [
+         25,
+         27,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "972": {
+      "name": [
+         "Shai",
+         "Gilgeous-Alexander"
+      ],
+      "teams": [
+         25,
+         25,
+         25
+      ],
+      "active": true
+   },
+   "1044": {
+      "name": [
+         "Kenrich",
+         "Williams"
+      ],
+      "teams": [
+         25,
+         25,
+         25
+      ],
+      "active": true
+   },
+   "2207": {
+      "name": [
+         "Justin",
+         "Robinson"
+      ],
+      "teams": [
+         25,
+         10,
+         17,
+         21,
+         30
+      ],
+      "active": false
+   },
+   "1847": {
+      "name": [
+         "Darius",
+         "Bazley"
+      ],
+      "teams": [
+         25,
+         25,
+         25,
+         28
+      ],
+      "active": true
+   },
+   "2160": {
+      "name": [
+         "Moses",
+         "Brown"
+      ],
+      "teams": [
+         25,
+         7,
+         8,
+         16
+      ],
+      "active": true
+   },
+   "2040": {
+      "name": [
+         "Luguentz",
+         "Dort"
+      ],
+      "teams": [
+         25,
+         25,
+         25
+      ],
+      "active": true
+   },
+   "2125": {
+      "name": [
+         "Jaylen",
+         "Hoard"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": false
+   },
+   "1870": {
+      "name": [
+         "Ty",
+         "Jerome"
+      ],
+      "teams": [
+         25,
+         25,
+         11
+      ],
+      "active": true
+   },
+   "1890": {
+      "name": [
+         "Isaiah",
+         "Roby"
+      ],
+      "teams": [
+         25,
+         25,
+         31
+      ],
+      "active": true
+   },
+   "1892": {
+      "name": [
+         "Admiral",
+         "Schofield"
+      ],
+      "teams": [
+         25,
+         1,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "2614": {
+      "name": [
+         "Theo",
+         "Maledon"
+      ],
+      "teams": [
+         25,
+         25,
+         5,
+         14
+      ],
+      "active": true
+   },
+   "2633": {
+      "name": [
+         "Aleksej",
+         "Pokusevski"
+      ],
+      "teams": [
+         25,
+         25,
+         25
+      ],
+      "active": true
+   },
+   "2673": {
+      "name": [
+         "Josh",
+         "Hall"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": false
+   },
+   "2779": {
+      "name": [
+         "Gabriel",
+         "Deck"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": false
+   },
+   "248": {
+      "name": [
+         "Al",
+         "Horford"
+      ],
+      "teams": [
+         25,
+         2,
+         2
+      ],
+      "active": true
+   },
+   "237": {
+      "name": [
+         "George",
+         "Hill"
+      ],
+      "teams": [
+         25,
+         27,
+         21,
+         15,
+         21
+      ],
+      "active": true
+   },
+   "203": {
+      "name": [
+         "Danny",
+         "Green"
+      ],
+      "teams": [
+         25,
+         27,
+         27,
+         7,
+         19
+      ],
+      "active": true
+   },
+   "836": {
+      "name": [
+         "Darius",
+         "Miller"
+      ],
+      "teams": [
+         25
+      ],
+      "active": false
+   },
+   "384": {
+      "name": [
+         "Mike",
+         "Muscala"
+      ],
+      "teams": [
+         25,
+         25,
+         2,
+         25
+      ],
+      "active": true
+   },
+   "580": {
+      "name": [
+         "Chasson",
+         "Randle"
+      ],
+      "teams": [
+         26,
+         28,
+         9
+      ],
+      "active": true
+   },
+   "779": {
+      "name": [
+         "Markelle",
+         "Fultz"
+      ],
+      "teams": [
+         26,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "801": {
+      "name": [
+         "Jonathan",
+         "Isaac"
+      ],
+      "teams": [
+         26,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "734": {
+      "name": [
+         "Dwayne",
+         "Bacon"
+      ],
+      "teams": [
+         26,
+         24,
+         17
+      ],
+      "active": true
+   },
+   "832": {
+      "name": [
+         "Frank",
+         "Mason"
+      ],
+      "teams": [
+         26,
+         27
+      ],
+      "active": false
+   },
+   "932": {
+      "name": [
+         "Mo",
+         "Bamba"
+      ],
+      "teams": [
+         26,
+         26,
+         17,
+         26
+      ],
+      "active": true
+   },
+   "2011": {
+      "name": [
+         "Robert",
+         "Franks"
+      ],
+      "teams": [
+         26,
+         8
+      ],
+      "active": false
+   },
+   "1883": {
+      "name": [
+         "Chuma",
+         "Okeke"
+      ],
+      "teams": [
+         26,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "1850": {
+      "name": [
+         "Jordan",
+         "Bone"
+      ],
+      "teams": [
+         26,
+         15
+      ],
+      "active": false
+   },
+   "2483": {
+      "name": [
+         "Donta",
+         "Hall"
+      ],
+      "teams": [
+         26,
+         38
+      ],
+      "active": false
+   },
+   "2532": {
+      "name": [
+         "Devin",
+         "Cannady"
+      ],
+      "teams": [
+         26,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "2563": {
+      "name": [
+         "Cole",
+         "Anthony"
+      ],
+      "teams": [
+         26,
+         26,
+         26
+      ],
+      "active": true
+   },
+   "2615": {
+      "name": [
+         "Karim",
+         "Mane"
+      ],
+      "teams": [
+         26,
+         22
+      ],
+      "active": false
+   },
+   "2653": {
+      "name": [
+         "Jon",
+         "Teske"
+      ],
+      "teams": [
+         26,
+         19,
+         26
+      ],
+      "active": false
+   },
+   "457": {
+      "name": [
+         "Terrence",
+         "Ross"
+      ],
+      "teams": [
+         26,
+         26,
+         26,
+         28
+      ],
+      "active": true
+   },
+   "95": {
+      "name": [
+         "Michael",
+         "Carter-Williams"
+      ],
+      "teams": [
+         26,
+         26
+      ],
+      "active": false
+   },
+   "160": {
+      "name": [
+         "James",
+         "Ennis III"
+      ],
+      "teams": [
+         26,
+         4,
+         9,
+         16
+      ],
+      "active": false
+   },
+   "739": {
+      "name": [
+         "Khem",
+         "Birch"
+      ],
+      "teams": [
+         26,
+         38,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "17": {
+      "name": [
+         "Justin",
+         "Anderson"
+      ],
+      "teams": [
+         27,
+         7,
+         14,
+         15
+      ],
+      "active": false
+   },
+   "481": {
+      "name": [
+         "Ben",
+         "Simmons"
+      ],
+      "teams": [
+         27,
+         27,
+         4
+      ],
+      "active": true
+   },
+   "818": {
+      "name": [
+         "Furkan",
+         "Korkmaz"
+      ],
+      "teams": [
+         27,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "774": {
+      "name": [
+         "Terrance",
+         "Ferguson"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "1001": {
+      "name": [
+         "Shake",
+         "Milton"
+      ],
+      "teams": [
+         27,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "1896": {
+      "name": [
+         "Matisse",
+         "Thybulle"
+      ],
+      "teams": [
+         27,
+         27,
+         27,
+         29
+      ],
+      "active": true
+   },
+   "2396": {
+      "name": [
+         "Vincent",
+         "Poirier"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "2405": {
+      "name": [
+         "Dakota",
+         "Mathias"
+      ],
+      "teams": [
+         27,
+         19,
+         40
+      ],
+      "active": false
+   },
+   "2619": {
+      "name": [
+         "Tyrese",
+         "Maxey"
+      ],
+      "teams": [
+         27,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "2638": {
+      "name": [
+         "Paul",
+         "Reed"
+      ],
+      "teams": [
+         27,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "2604": {
+      "name": [
+         "Isaiah",
+         "Joe"
+      ],
+      "teams": [
+         27,
+         27,
+         25,
+         27
+      ],
+      "active": true
+   },
+   "517": {
+      "name": [
+         "Anthony",
+         "Tolliver"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "222": {
+      "name": [
+         "Tobias",
+         "Harris"
+      ],
+      "teams": [
+         27,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "474": {
+      "name": [
+         "Mike",
+         "Scott"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "123": {
+      "name": [
+         "Seth",
+         "Curry"
+      ],
+      "teams": [
+         27,
+         4,
+         27,
+         4
+      ],
+      "active": true
+   },
+   "159": {
+      "name": [
+         "Joel",
+         "Embiid"
+      ],
+      "teams": [
+         27,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "250": {
+      "name": [
+         "Dwight",
+         "Howard"
+      ],
+      "teams": [
+         27,
+         17
+      ],
+      "active": false
+   },
+   "415": {
+      "name": [
+         "Chris",
+         "Paul"
+      ],
+      "teams": [
+         28,
+         28,
+         28
+      ],
+      "active": true
+   },
+   "290": {
+      "name": [
+         "Frank",
+         "Kaminsky"
+      ],
+      "teams": [
+         28,
+         30,
+         28,
+         1,
+         14
+      ],
+      "active": true
+   },
+   "64": {
+      "name": [
+         "Devin",
+         "Booker"
+      ],
+      "teams": [
+         28,
+         28,
+         28
+      ],
+      "active": true
+   },
+   "417": {
+      "name": [
+         "Cameron",
+         "Payne"
+      ],
+      "teams": [
+         28,
+         28,
+         28
+      ],
+      "active": true
+   },
+   "847": {
+      "name": [
+         "Abdel",
+         "Nader"
+      ],
+      "teams": [
+         28,
+         28
+      ],
+      "active": false
+   },
+   "846": {
+      "name": [
+         "Johnathan",
+         "Motley"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "940": {
+      "name": [
+         "Mikal",
+         "Bridges"
+      ],
+      "teams": [
+         28,
+         28,
+         4,
+         28
+      ],
+      "active": true
+   },
+   "949": {
+      "name": [
+         "Jevon",
+         "Carter"
+      ],
+      "teams": [
+         28,
+         4,
+         21,
+         21
+      ],
+      "active": true
+   },
+   "930": {
+      "name": [
+         "Deandre",
+         "Ayton"
+      ],
+      "teams": [
+         28,
+         28,
+         28
+      ],
+      "active": true
+   },
+   "1871": {
+      "name": [
+         "Cameron",
+         "Johnson"
+      ],
+      "teams": [
+         28,
+         28,
+         4,
+         28
+      ],
+      "active": true
+   },
+   "2644": {
+      "name": [
+         "Jalen",
+         "Smith"
+      ],
+      "teams": [
+         28,
+         15,
+         28,
+         15
+      ],
+      "active": true
+   },
+   "2562": {
+      "name": [
+         "Ty-Shon",
+         "Alexander"
+      ],
+      "teams": [
+         28,
+         28
+      ],
+      "active": false
+   },
+   "371": {
+      "name": [
+         "E'Twaun",
+         "Moore"
+      ],
+      "teams": [
+         28,
+         26
+      ],
+      "active": false
+   },
+   "121": {
+      "name": [
+         "Jae",
+         "Crowder"
+      ],
+      "teams": [
+         28,
+         28,
+         21,
+         28
+      ],
+      "active": true
+   },
+   "468": {
+      "name": [
+         "Dario",
+         "Saric"
+      ],
+      "teams": [
+         28,
+         28,
+         25,
+         28
+      ],
+      "active": true
+   },
+   "182": {
+      "name": [
+         "Langston",
+         "Galloway"
+      ],
+      "teams": [
+         28,
+         4,
+         11,
+         21,
+         15
+      ],
+      "active": true
+   },
+   "434": {
+      "name": [
+         "Norman",
+         "Powell"
+      ],
+      "teams": [
+         29,
+         38,
+         16,
+         29,
+         16
+      ],
+      "active": true
+   },
+   "283": {
+      "name": [
+         "Derrick",
+         "Jones Jr."
+      ],
+      "teams": [
+         29,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "762": {
+      "name": [
+         "Zach",
+         "Collins"
+      ],
+      "teams": [
+         29,
+         31,
+         31
+      ],
+      "active": true
+   },
+   "784": {
+      "name": [
+         "Harry",
+         "Giles III"
+      ],
+      "teams": [
+         29,
+         16
+      ],
+      "active": false
+   },
+   "1023": {
+      "name": [
+         "Anfernee",
+         "Simons"
+      ],
+      "teams": [
+         29,
+         29,
+         29
+      ],
+      "active": true
+   },
+   "1058": {
+      "name": [
+         "Gary",
+         "Trent Jr."
+      ],
+      "teams": [
+         29,
+         38,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "2585": {
+      "name": [
+         "CJ",
+         "Elleby"
+      ],
+      "teams": [
+         29,
+         29,
+         22
+      ],
+      "active": true
+   },
+   "1875": {
+      "name": [
+         "Nassir",
+         "Little"
+      ],
+      "teams": [
+         29,
+         29,
+         29
+      ],
+      "active": true
+   },
+   "2440": {
+      "name": [
+         "Keljin",
+         "Blevins"
+      ],
+      "teams": [
+         29,
+         29
+      ],
+      "active": false
+   },
+   "291": {
+      "name": [
+         "Enes",
+         "Freedom"
+      ],
+      "teams": [
+         29,
+         2
+      ],
+      "active": false
+   },
+   "319": {
+      "name": [
+         "Damian",
+         "Lillard"
+      ],
+      "teams": [
+         29,
+         29,
+         29
+      ],
+      "active": true
+   },
+   "347": {
+      "name": [
+         "CJ",
+         "McCollum"
+      ],
+      "teams": [
+         29,
+         23,
+         29,
+         23
+      ],
+      "active": true
+   },
+   "118": {
+      "name": [
+         "Robert",
+         "Covington"
+      ],
+      "teams": [
+         29,
+         16,
+         29,
+         16
+      ],
+      "active": true
+   },
+   "247": {
+      "name": [
+         "Rodney",
+         "Hood"
+      ],
+      "teams": [
+         29,
+         38,
+         16,
+         21
+      ],
+      "active": false
+   },
+   "398": {
+      "name": [
+         "Jusuf",
+         "Nurkic"
+      ],
+      "teams": [
+         29,
+         29,
+         29
+      ],
+      "active": true
+   },
+   "21": {
+      "name": [
+         "Carmelo",
+         "Anthony"
+      ],
+      "teams": [
+         29,
+         17
+      ],
+      "active": false
+   },
+   "246": {
+      "name": [
+         "Richaun",
+         "Holmes"
+      ],
+      "teams": [
+         30,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "236": {
+      "name": [
+         "Buddy",
+         "Hield"
+      ],
+      "teams": [
+         30,
+         15,
+         30,
+         15
+      ],
+      "active": true
+   },
+   "776": {
+      "name": [
+         "De'Aaron",
+         "Fox"
+      ],
+      "teams": [
+         30,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "931": {
+      "name": [
+         "Marvin",
+         "Bagley III"
+      ],
+      "teams": [
+         30,
+         10,
+         30,
+         10
+      ],
+      "active": true
+   },
+   "999": {
+      "name": [
+         "Chimezie",
+         "Metu"
+      ],
+      "teams": [
+         30,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "965": {
+      "name": [
+         "Vincent",
+         "Edwards"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "2168": {
+      "name": [
+         "Terence",
+         "Davis"
+      ],
+      "teams": [
+         30,
+         38,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "1861": {
+      "name": [
+         "Kyle",
+         "Guy"
+      ],
+      "teams": [
+         30,
+         7,
+         11,
+         20
+      ],
+      "active": false
+   },
+   "1869": {
+      "name": [
+         "Justin",
+         "James"
+      ],
+      "teams": [
+         30,
+         7,
+         23
+      ],
+      "active": false
+   },
+   "2595": {
+      "name": [
+         "Tyrese",
+         "Haliburton"
+      ],
+      "teams": [
+         30,
+         15,
+         30,
+         15
+      ],
+      "active": true
+   },
+   "2637": {
+      "name": [
+         "Jahmi'us",
+         "Ramsey"
+      ],
+      "teams": [
+         30,
+         30
+      ],
+      "active": false
+   },
+   "2667": {
+      "name": [
+         "Robert",
+         "Woodard II"
+      ],
+      "teams": [
+         30,
+         30,
+         31,
+         25
+      ],
+      "active": true
+   },
+   "546": {
+      "name": [
+         "Hassan",
+         "Whiteside"
+      ],
+      "teams": [
+         30,
+         40
+      ],
+      "active": false
+   },
+   "36": {
+      "name": [
+         "Harrison",
+         "Barnes"
+      ],
+      "teams": [
+         30,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "451": {
+      "name": [
+         "Glenn",
+         "Robinson III"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "331": {
+      "name": [
+         "Trey",
+         "Lyles"
+      ],
+      "teams": [
+         31,
+         10,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "382": {
+      "name": [
+         "Dejounte",
+         "Murray"
+      ],
+      "teams": [
+         31,
+         31,
+         1
+      ],
+      "active": true
+   },
+   "428": {
+      "name": [
+         "Jakob",
+         "Poeltl"
+      ],
+      "teams": [
+         31,
+         31,
+         31,
+         38
+      ],
+      "active": true
+   },
+   "897": {
+      "name": [
+         "Derrick",
+         "White"
+      ],
+      "teams": [
+         31,
+         2,
+         31,
+         2
+      ],
+      "active": true
+   },
+   "934": {
+      "name": [
+         "Keita",
+         "Bates-Diop"
+      ],
+      "teams": [
+         31,
+         31,
+         31
+      ],
+      "active": true
+   },
+   "1038": {
+      "name": [
+         "Lonnie",
+         "Walker IV"
+      ],
+      "teams": [
+         31,
+         31,
+         17
+      ],
+      "active": true
+   },
+   "966": {
+      "name": [
+         "Drew",
+         "Eubanks"
+      ],
+      "teams": [
+         31,
+         29,
+         31,
+         29
+      ],
+      "active": true
+   },
+   "1872": {
+      "name": [
+         "Keldon",
+         "Johnson"
+      ],
+      "teams": [
+         31,
+         31,
+         31
+      ],
+      "active": true
+   },
+   "1891": {
+      "name": [
+         "Luka",
+         "Samanic"
+      ],
+      "teams": [
+         31,
+         31,
+         2
+      ],
+      "active": true
+   },
+   "1899": {
+      "name": [
+         "Quinndary",
+         "Weatherspoon"
+      ],
+      "teams": [
+         31,
+         4,
+         11,
+         11
+      ],
+      "active": true
+   },
+   "2661": {
+      "name": [
+         "Devin",
+         "Vassell"
+      ],
+      "teams": [
+         31,
+         31,
+         31
+      ],
+      "active": true
+   },
+   "2606": {
+      "name": [
+         "Tre",
+         "Jones"
+      ],
+      "teams": [
+         31,
+         31,
+         31
+      ],
+      "active": true
+   },
+   "186": {
+      "name": [
+         "Rudy",
+         "Gay"
+      ],
+      "teams": [
+         31,
+         40,
+         40
+      ],
+      "active": true
+   },
+   "136": {
+      "name": [
+         "DeMar",
+         "DeRozan"
+      ],
+      "teams": [
+         31,
+         6,
+         6
+      ],
+      "active": true
+   },
+   "365": {
+      "name": [
+         "Patty",
+         "Mills"
+      ],
+      "teams": [
+         31,
+         4,
+         4
+      ],
+      "active": true
+   },
+   "572": {
+      "name": [
+         "Tyler",
+         "Zeller"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "276": {
+      "name": [
+         "Stanley",
+         "Johnson"
+      ],
+      "teams": [
+         38,
+         6,
+         17,
+         31,
+         40
+      ],
+      "active": true
+   },
+   "156": {
+      "name": [
+         "Henry",
+         "Ellenson"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "49": {
+      "name": [
+         "DeAndre'",
+         "Bembry"
+      ],
+      "teams": [
+         38,
+         4,
+         21
+      ],
+      "active": false
+   },
+   "345": {
+      "name": [
+         "Patrick",
+         "McCaw"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "479": {
+      "name": [
+         "Pascal",
+         "Siakam"
+      ],
+      "teams": [
+         38,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "527": {
+      "name": [
+         "Fred",
+         "VanVleet"
+      ],
+      "teams": [
+         38,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "732": {
+      "name": [
+         "O.G.",
+         "Anunoby"
+      ],
+      "teams": [
+         38,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "745": {
+      "name": [
+         "Chris",
+         "Boucher"
+      ],
+      "teams": [
+         38,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "1668": {
+      "name": [
+         "Paul",
+         "Watson"
+      ],
+      "teams": [
+         38,
+         25
+      ],
+      "active": false
+   },
+   "1040": {
+      "name": [
+         "Yuta",
+         "Watanabe"
+      ],
+      "teams": [
+         38,
+         38,
+         4
+      ],
+      "active": true
+   },
+   "2423": {
+      "name": [
+         "Matt",
+         "Thomas"
+      ],
+      "teams": [
+         38,
+         40,
+         6
+      ],
+      "active": false
+   },
+   "2587": {
+      "name": [
+         "Malachi",
+         "Flynn"
+      ],
+      "teams": [
+         38,
+         38,
+         38
+      ],
+      "active": true
+   },
+   "2598": {
+      "name": [
+         "Jalen",
+         "Harris"
+      ],
+      "teams": [
+         38,
+         24
+      ],
+      "active": true
+   },
+   "327": {
+      "name": [
+         "Kyle",
+         "Lowry"
+      ],
+      "teams": [
+         38,
+         20,
+         20
+      ],
+      "active": true
+   },
+   "42": {
+      "name": [
+         "Aron",
+         "Baynes"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "313": {
+      "name": [
+         "Alex",
+         "Len"
+      ],
+      "teams": [
+         38,
+         41,
+         30,
+         30
+      ],
+      "active": true
+   },
+   "257": {
+      "name": [
+         "Ersan",
+         "Ilyasova"
+      ],
+      "teams": [
+         40,
+         6
+      ],
+      "active": false
+   },
+   "851": {
+      "name": [
+         "Royce",
+         "O'Neale"
+      ],
+      "teams": [
+         40,
+         40,
+         4
+      ],
+      "active": true
+   },
+   "391": {
+      "name": [
+         "Georges",
+         "Niang"
+      ],
+      "teams": [
+         40,
+         27,
+         27
+      ],
+      "active": true
+   },
+   "840": {
+      "name": [
+         "Donovan",
+         "Mitchell"
+      ],
+      "teams": [
+         40,
+         40,
+         7
+      ],
+      "active": true
+   },
+   "2397": {
+      "name": [
+         "Nigel",
+         "Williams-Goss"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "2565": {
+      "name": [
+         "Udoka",
+         "Azubuike"
+      ],
+      "teams": [
+         40,
+         40,
+         40
+      ],
+      "active": true
+   },
+   "937": {
+      "name": [
+         "Trevon",
+         "Bluiett"
+      ],
+      "teams": [
+         40,
+         7
+      ],
+      "active": false
+   },
+   "1885": {
+      "name": [
+         "Miye",
+         "Oni"
+      ],
+      "teams": [
+         40,
+         23,
+         40
+      ],
+      "active": false
+   },
+   "1851": {
+      "name": [
+         "Jarrell",
+         "Brantley"
+      ],
+      "teams": [
+         40,
+         40
+      ],
+      "active": false
+   },
+   "2438": {
+      "name": [
+         "Juwan",
+         "Morgan"
+      ],
+      "teams": [
+         40,
+         2,
+         38,
+         40,
+         16
+      ],
+      "active": true
+   },
+   "2602": {
+      "name": [
+         "Elijah",
+         "Hughes"
+      ],
+      "teams": [
+         40,
+         29,
+         40
+      ],
+      "active": false
+   },
+   "2589": {
+      "name": [
+         "Trent",
+         "Forrest"
+      ],
+      "teams": [
+         40,
+         40,
+         1
+      ],
+      "active": true
+   },
+   "2657": {
+      "name": [
+         "Jake",
+         "Toolson"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "2591": {
+      "name": [
+         "Romaro",
+         "Gill"
+      ],
+      "teams": [
+         40,
+         17
+      ],
+      "active": false
+   },
+   "2679": {
+      "name": [
+         "Trevon",
+         "Scott"
+      ],
+      "teams": [
+         40,
+         7
+      ],
+      "active": false
+   },
+   "114": {
+      "name": [
+         "Mike",
+         "Conley"
+      ],
+      "teams": [
+         40,
+         40,
+         22,
+         40
+      ],
+      "active": true
+   },
+   "169": {
+      "name": [
+         "Derrick",
+         "Favors"
+      ],
+      "teams": [
+         40,
+         25,
+         1,
+         14
+      ],
+      "active": true
+   },
+   "60": {
+      "name": [
+         "Bojan",
+         "Bogdanovic"
+      ],
+      "teams": [
+         40,
+         40,
+         10
+      ],
+      "active": true
+   },
+   "192": {
+      "name": [
+         "Rudy",
+         "Gobert"
+      ],
+      "teams": [
+         40,
+         40,
+         22
+      ],
+      "active": true
+   },
+   "109": {
+      "name": [
+         "Jordan",
+         "Clarkson"
+      ],
+      "teams": [
+         40,
+         40,
+         40
+      ],
+      "active": true
+   },
+   "258": {
+      "name": [
+         "Joe",
+         "Ingles"
+      ],
+      "teams": [
+         40,
+         40,
+         21
+      ],
+      "active": true
+   },
+   "2204": {
+      "name": [
+         "Anzejs",
+         "Pasecniks"
+      ],
+      "teams": [
+         41,
+         23
+      ],
+      "active": false
+   },
+   "753": {
+      "name": [
+         "Thomas",
+         "Bryant"
+      ],
+      "teams": [
+         41,
+         41,
+         9,
+         17
+      ],
+      "active": true
+   },
+   "1019": {
+      "name": [
+         "Jerome",
+         "Robinson"
+      ],
+      "teams": [
+         41,
+         6,
+         11
+      ],
+      "active": true
+   },
+   "1862": {
+      "name": [
+         "Rui",
+         "Hachimura"
+      ],
+      "teams": [
+         41,
+         41,
+         17,
+         41
+      ],
+      "active": true
+   },
+   "939": {
+      "name": [
+         "Isaac",
+         "Bonga"
+      ],
+      "teams": [
+         41,
+         38
+      ],
+      "active": false
+   },
+   "2327": {
+      "name": [
+         "Garrison",
+         "Mathews"
+      ],
+      "teams": [
+         41,
+         2,
+         14,
+         1,
+         14
+      ],
+      "active": true
+   },
+   "2564": {
+      "name": [
+         "Deni",
+         "Avdija"
+      ],
+      "teams": [
+         41,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "2576": {
+      "name": [
+         "Yoeli",
+         "Childs"
+      ],
+      "teams": [
+         41,
+         17
+      ],
+      "active": false
+   },
+   "2665": {
+      "name": [
+         "Cassius",
+         "Winston"
+      ],
+      "teams": [
+         41,
+         41
+      ],
+      "active": false
+   },
+   "2600": {
+      "name": [
+         "Caleb",
+         "Homesley"
+      ],
+      "teams": [
+         41,
+         41
+      ],
+      "active": false
+   },
+   "2651": {
+      "name": [
+         "Marlon",
+         "Taylor"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "2590": {
+      "name": [
+         "Anthony",
+         "Gill"
+      ],
+      "teams": [
+         41,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "544": {
+      "name": [
+         "Russell",
+         "Westbrook"
+      ],
+      "teams": [
+         41,
+         17,
+         17,
+         16
+      ],
+      "active": true
+   },
+   "325": {
+      "name": [
+         "Robin",
+         "Lopez"
+      ],
+      "teams": [
+         41,
+         26,
+         7
+      ],
+      "active": true
+   },
+   "488": {
+      "name": [
+         "Ish",
+         "Smith"
+      ],
+      "teams": [
+         41,
+         5,
+         41,
+         9
+      ],
+      "active": true
+   },
+   "52": {
+      "name": [
+         "Davis",
+         "Bertans"
+      ],
+      "teams": [
+         41,
+         8,
+         41,
+         8
+      ],
+      "active": true
+   },
+   "45": {
+      "name": [
+         "Bradley",
+         "Beal"
+      ],
+      "teams": [
+         41,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "390": {
+      "name": [
+         "Raul",
+         "Neto"
+      ],
+      "teams": [
+         41,
+         41,
+         7
+      ],
+      "active": true
+   },
+   "588": {
+      "name": [
+         "Cat",
+         "Barber"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "977": {
+      "name": [
+         "Johnny",
+         "Hamilton"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "923": {
+      "name": [
+         "DeVaughn",
+         "Akoon-Purcell"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "2211": {
+      "name": [
+         "Justin",
+         "Tillman"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "2979": {
+      "name": [
+         "Nahziah",
+         "Carter"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "2800": {
+      "name": [
+         "Sharife",
+         "Cooper"
+      ],
+      "teams": [
+         1,
+         7
+      ],
+      "active": true
+   },
+   "2819": {
+      "name": [
+         "Jalen",
+         "Johnson"
+      ],
+      "teams": [
+         1,
+         1
+      ],
+      "active": true
+   },
+   "2794": {
+      "name": [
+         "Chaundee",
+         "Brown Jr."
+      ],
+      "teams": [
+         1,
+         17
+      ],
+      "active": false
+   },
+   "2890": {
+      "name": [
+         "A.J.",
+         "Lawson"
+      ],
+      "teams": [
+         1,
+         8,
+         22
+      ],
+      "active": true
+   },
+   "3395": {
+      "name": [
+         "Malik",
+         "Ellison"
+      ],
+      "teams": [
+         1,
+         1
+      ],
+      "active": true
+   },
+   "3380": {
+      "name": [
+         "Malcolm",
+         "Hill"
+      ],
+      "teams": [
+         1,
+         6,
+         23,
+         6
+      ],
+      "active": true
+   },
+   "3382": {
+      "name": [
+         "Ibi",
+         "Watson-Boye"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "497": {
+      "name": [
+         "Lance",
+         "Stephenson"
+      ],
+      "teams": [
+         1,
+         15
+      ],
+      "active": false
+   },
+   "372": {
+      "name": [
+         "Eric",
+         "Moreland"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "3006": {
+      "name": [
+         "Juwan",
+         "Durham"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "3057": {
+      "name": [
+         "Max",
+         "Heidegger"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "3072": {
+      "name": [
+         "Justin",
+         "Jaworski"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "3263": {
+      "name": [
+         "Ibi",
+         "Watson"
+      ],
+      "teams": [
+         1
+      ],
+      "active": false
+   },
+   "362": {
+      "name": [
+         "CJ",
+         "Miles"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "597": {
+      "name": [
+         "Zach",
+         "Auguste"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "1920": {
+      "name": [
+         "Dedric",
+         "Lawson"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "1917": {
+      "name": [
+         "Aric",
+         "Holman"
+      ],
+      "teams": [
+         2,
+         20
+      ],
+      "active": false
+   },
+   "2612": {
+      "name": [
+         "Yam",
+         "Madar"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "3195": {
+      "name": [
+         "Matt",
+         "Ryan"
+      ],
+      "teams": [
+         2,
+         7,
+         9,
+         17,
+         22
+      ],
+      "active": true
+   },
+   "2812": {
+      "name": [
+         "Sam",
+         "Hauser"
+      ],
+      "teams": [
+         2,
+         2
+      ],
+      "active": true
+   },
+   "2791": {
+      "name": [
+         "Juhann",
+         "Begarin"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "275": {
+      "name": [
+         "Joe",
+         "Johnson"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "3252": {
+      "name": [
+         "Arnas",
+         "Velicka"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "3100": {
+      "name": [
+         "K.J.",
+         "Lawson"
+      ],
+      "teams": [
+         2
+      ],
+      "active": false
+   },
+   "1071": {
+      "name": [
+         "Kaiser",
+         "Gates"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "2572": {
+      "name": [
+         "Jordan",
+         "Bowden"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "2848": {
+      "name": [
+         "Day'Ron",
+         "Sharpe"
+      ],
+      "teams": [
+         4,
+         4
+      ],
+      "active": true
+   },
+   "2805": {
+      "name": [
+         "Kessler",
+         "Edwards"
+      ],
+      "teams": [
+         4,
+         4,
+         30
+      ],
+      "active": true
+   },
+   "2855": {
+      "name": [
+         "Cam",
+         "Thomas"
+      ],
+      "teams": [
+         4,
+         4
+      ],
+      "active": true
+   },
+   "2804": {
+      "name": [
+         "David",
+         "Duke Jr."
+      ],
+      "teams": [
+         4,
+         4
+      ],
+      "active": true
+   },
+   "2809": {
+      "name": [
+         "RaiQuan",
+         "Gray"
+      ],
+      "teams": [
+         4,
+         4
+      ],
+      "active": true
+   },
+   "3181": {
+      "name": [
+         "Brandon",
+         "Rachal"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "2866": {
+      "name": [
+         "Marcus",
+         "Zegarowski"
+      ],
+      "teams": [
+         4
+      ],
+      "active": false
+   },
+   "297": {
+      "name": [
+         "Brandon",
+         "Knight"
+      ],
+      "teams": [
+         4,
+         8
+      ],
+      "active": false
+   },
+   "1482": {
+      "name": [
+         "Arnoldas",
+         "Kulboka"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "3272": {
+      "name": [
+         "Kenny",
+         "Williams"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "2823": {
+      "name": [
+         "Kai",
+         "Jones"
+      ],
+      "teams": [
+         5,
+         5
+      ],
+      "active": true
+   },
+   "2793": {
+      "name": [
+         "James",
+         "Bouknight"
+      ],
+      "teams": [
+         5,
+         5
+      ],
+      "active": true
+   },
+   "2856": {
+      "name": [
+         "JT",
+         "Thor"
+      ],
+      "teams": [
+         5,
+         5
+      ],
+      "active": true
+   },
+   "2828": {
+      "name": [
+         "Scottie",
+         "Lewis"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "2797": {
+      "name": [
+         "D.J.",
+         "Carton"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "2990": {
+      "name": [
+         "Jalen",
+         "Crutcher"
+      ],
+      "teams": [
+         5,
+         21,
+         5
+      ],
+      "active": true
+   },
+   "3376": {
+      "name": [
+         "Cameron",
+         "McGriff"
+      ],
+      "teams": [
+         5,
+         29
+      ],
+      "active": false
+   },
+   "3238": {
+      "name": [
+         "JT",
+         "Thor"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "3110": {
+      "name": [
+         "Denzel",
+         "Mahoney"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "3131": {
+      "name": [
+         "Cameron",
+         "McGriff"
+      ],
+      "teams": [
+         5
+      ],
+      "active": false
+   },
+   "2802": {
+      "name": [
+         "Ayo",
+         "Dosunmu"
+      ],
+      "teams": [
+         6,
+         6
+      ],
+      "active": true
+   },
+   "2643": {
+      "name": [
+         "Marko",
+         "Simonovic"
+      ],
+      "teams": [
+         6,
+         6
+      ],
+      "active": true
+   },
+   "2833": {
+      "name": [
+         "Mac",
+         "McClung"
+      ],
+      "teams": [
+         6,
+         17,
+         11
+      ],
+      "active": true
+   },
+   "2992": {
+      "name": [
+         "Ryan",
+         "Daly"
+      ],
+      "teams": [
+         6
+      ],
+      "active": false
+   },
+   "3237": {
+      "name": [
+         "Ethan",
+         "Thompson"
+      ],
+      "teams": [
+         6
+      ],
+      "active": false
+   },
+   "3115": {
+      "name": [
+         "Sterling",
+         "Manley"
+      ],
+      "teams": [
+         6
+      ],
+      "active": false
+   },
+   "2954": {
+      "name": [
+         "Troy",
+         "Baxter Jr."
+      ],
+      "teams": [
+         6
+      ],
+      "active": false
+   },
+   "1863": {
+      "name": [
+         "Jaylen",
+         "Hands"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "1057": {
+      "name": [
+         "Malik",
+         "Newman"
+      ],
+      "teams": [
+         7,
+         31
+      ],
+      "active": false
+   },
+   "2835": {
+      "name": [
+         "Evan",
+         "Mobley"
+      ],
+      "teams": [
+         7,
+         7
+      ],
+      "active": true
+   },
+   "2901": {
+      "name": [
+         "RJ",
+         "Nembhard Jr."
+      ],
+      "teams": [
+         7,
+         20,
+         7
+      ],
+      "active": true
+   },
+   "2948": {
+      "name": [
+         "Mitch",
+         "Ballock"
+      ],
+      "teams": [
+         7,
+         27
+      ],
+      "active": false
+   },
+   "3363": {
+      "name": [
+         "Kevin",
+         "Pangos"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "3056": {
+      "name": [
+         "Sehmus",
+         "Hazer"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "3198": {
+      "name": [
+         "Tre",
+         "Scott"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "3251": {
+      "name": [
+         "Chandler",
+         "Vaudrin"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "2950": {
+      "name": [
+         "James",
+         "Banks III"
+      ],
+      "teams": [
+         7
+      ],
+      "active": false
+   },
+   "986": {
+      "name": [
+         "George",
+         "King"
+      ],
+      "teams": [
+         8,
+         16,
+         29
+      ],
+      "active": false
+   },
+   "2439": {
+      "name": [
+         "Tariq",
+         "Owens"
+      ],
+      "teams": [
+         8
+      ],
+      "active": false
+   },
+   "2684": {
+      "name": [
+         "Devonte",
+         "Patterson"
+      ],
+      "teams": [
+         8
+      ],
+      "active": false
+   },
+   "3278": {
+      "name": [
+         "Moses",
+         "Wright"
+      ],
+      "teams": [
+         8,
+         16,
+         23
+      ],
+      "active": false
+   },
+   "3160": {
+      "name": [
+         "EJ",
+         "Onu"
+      ],
+      "teams": [
+         8
+      ],
+      "active": false
+   },
+   "2895": {
+      "name": [
+         "JaQuori",
+         "McLaughlin"
+      ],
+      "teams": [
+         8,
+         11
+      ],
+      "active": false
+   },
+   "3067": {
+      "name": [
+         "Feron",
+         "Hunt"
+      ],
+      "teams": [
+         8,
+         23,
+         24,
+         24
+      ],
+      "active": true
+   },
+   "3081": {
+      "name": [
+         "Carlik",
+         "Jones"
+      ],
+      "teams": [
+         8,
+         9,
+         6
+      ],
+      "active": true
+   },
+   "2838": {
+      "name": [
+         "Eugene",
+         "Omoruyi"
+      ],
+      "teams": [
+         8,
+         10,
+         25
+      ],
+      "active": true
+   },
+   "3203": {
+      "name": [
+         "Devontae",
+         "Shuler"
+      ],
+      "teams": [
+         8,
+         41
+      ],
+      "active": false
+   },
+   "3018": {
+      "name": [
+         "LJ",
+         "Figueroa"
+      ],
+      "teams": [
+         8
+      ],
+      "active": false
+   },
+   "787": {
+      "name": [
+         "Daniel",
+         "Hamilton"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "1341": {
+      "name": [
+         "Petr",
+         "Cornelie"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "1398": {
+      "name": [
+         "Josh",
+         "Gray"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "865": {
+      "name": [
+         "Davon",
+         "Reed"
+      ],
+      "teams": [
+         9,
+         9,
+         17
+      ],
+      "active": true
+   },
+   "2546": {
+      "name": [
+         "Matur",
+         "Maker"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "2077": {
+      "name": [
+         "Zylan",
+         "Cheatham"
+      ],
+      "teams": [
+         9,
+         20,
+         23,
+         40,
+         23
+      ],
+      "active": true
+   },
+   "3031": {
+      "name": [
+         "Eugene",
+         "German"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "2816": {
+      "name": [
+         "Bones",
+         "Hyland"
+      ],
+      "teams": [
+         9,
+         9,
+         16
+      ],
+      "active": true
+   },
+   "3379": {
+      "name": [
+         "Giorgi",
+         "Bezhanishvili"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "106": {
+      "name": [
+         "Semaj",
+         "Christon"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "2976": {
+      "name": [
+         "Deonte",
+         "Burton"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "56": {
+      "name": [
+         "Tarik",
+         "Black"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "2936": {
+      "name": [
+         "Caleb",
+         "Agada"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "2959": {
+      "name": [
+         "Giorgi",
+         "Bezhanishvili"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "2960": {
+      "name": [
+         "Chudier",
+         "Bile"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "2975": {
+      "name": [
+         "Jason",
+         "Burnell"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "3139": {
+      "name": [
+         "Steffon",
+         "Mitchell"
+      ],
+      "teams": [
+         9
+      ],
+      "active": false
+   },
+   "138": {
+      "name": [
+         "Cheick",
+         "Diallo"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "894": {
+      "name": [
+         "Derrick",
+         "Walton Jr."
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3401": {
+      "name": [
+         "Trayvon",
+         "Palmer"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3403": {
+      "name": [
+         "Jaysean",
+         "Paige"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3091": {
+      "name": [
+         "Braxton",
+         "Key"
+      ],
+      "teams": [
+         10,
+         27,
+         10
+      ],
+      "active": true
+   },
+   "2807": {
+      "name": [
+         "Luka",
+         "Garza"
+      ],
+      "teams": [
+         10,
+         22
+      ],
+      "active": true
+   },
+   "2829": {
+      "name": [
+         "Isaiah",
+         "Livers"
+      ],
+      "teams": [
+         10,
+         10
+      ],
+      "active": true
+   },
+   "2801": {
+      "name": [
+         "Cade",
+         "Cunningham"
+      ],
+      "teams": [
+         10,
+         10
+      ],
+      "active": true
+   },
+   "2850": {
+      "name": [
+         "Chris",
+         "Smith"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "2840": {
+      "name": [
+         "Jamorko",
+         "Pickett"
+      ],
+      "teams": [
+         10,
+         7
+      ],
+      "active": true
+   },
+   "3358": {
+      "name": [
+         "Micah",
+         "Potter"
+      ],
+      "teams": [
+         10,
+         20,
+         40
+      ],
+      "active": true
+   },
+   "3095": {
+      "name": [
+         "Balsa",
+         "Koprivica"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3371": {
+      "name": [
+         "Jared",
+         "Cunningham"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "700": {
+      "name": [
+         "Grant",
+         "Jerrett"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3025": {
+      "name": [
+         "Blake",
+         "Francis"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3105": {
+      "name": [
+         "Spencer",
+         "Littleson"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3172": {
+      "name": [
+         "Jamorko",
+         "Pickett"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "3228": {
+      "name": [
+         "Anthony",
+         "Tarke"
+      ],
+      "teams": [
+         10
+      ],
+      "active": false
+   },
+   "2924": {
+      "name": [
+         "Ryan",
+         "Taylor"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2920": {
+      "name": [
+         "Kendall",
+         "Smith"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2827": {
+      "name": [
+         "Jonathan",
+         "Kuminga"
+      ],
+      "teams": [
+         11,
+         11
+      ],
+      "active": true
+   },
+   "2940": {
+      "name": [
+         "Derrick",
+         "Alston Jr."
+      ],
+      "teams": [
+         11,
+         40
+      ],
+      "active": false
+   },
+   "2603": {
+      "name": [
+         "Justinian",
+         "Jessup"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2878": {
+      "name": [
+         "Jeff",
+         "Dowtin"
+      ],
+      "teams": [
+         11,
+         21,
+         26,
+         38
+      ],
+      "active": true
+   },
+   "2906": {
+      "name": [
+         "Elijah",
+         "Pemberton"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2892": {
+      "name": [
+         "Selom",
+         "Mawugbe"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2836": {
+      "name": [
+         "Moses",
+         "Moody"
+      ],
+      "teams": [
+         11,
+         11
+      ],
+      "active": true
+   },
+   "2914": {
+      "name": [
+         "Jordan",
+         "Schakel"
+      ],
+      "teams": [
+         11,
+         30,
+         41,
+         41
+      ],
+      "active": true
+   },
+   "2913": {
+      "name": [
+         "Colbey",
+         "Ross"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "3388": {
+      "name": [
+         "LJ",
+         "Figueroa"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2899": {
+      "name": [
+         "Travis",
+         "Munnings"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "2930": {
+      "name": [
+         "Tim",
+         "Williams"
+      ],
+      "teams": [
+         11
+      ],
+      "active": false
+   },
+   "3171": {
+      "name": [
+         "Trey",
+         "Phills"
+      ],
+      "teams": [
+         14
+      ],
+      "active": false
+   },
+   "2810": {
+      "name": [
+         "Jalen",
+         "Green"
+      ],
+      "teams": [
+         14,
+         14
+      ],
+      "active": true
+   },
+   "3154": {
+      "name": [
+         "Daishen",
+         "Nix"
+      ],
+      "teams": [
+         14,
+         27,
+         14
+      ],
+      "active": true
+   },
+   "2799": {
+      "name": [
+         "Josh",
+         "Christopher"
+      ],
+      "teams": [
+         14,
+         14
+      ],
+      "active": true
+   },
+   "2815": {
+      "name": [
+         "Matt",
+         "Hurt"
+      ],
+      "teams": [
+         14,
+         19
+      ],
+      "active": false
+   },
+   "2847": {
+      "name": [
+         "Alperen",
+         "Sengun"
+      ],
+      "teams": [
+         14,
+         14
+      ],
+      "active": true
+   },
+   "2806": {
+      "name": [
+         "Usman",
+         "Garuba"
+      ],
+      "teams": [
+         14,
+         14
+      ],
+      "active": true
+   },
+   "2884": {
+      "name": [
+         "DeJon",
+         "Jarreau"
+      ],
+      "teams": [
+         14,
+         15,
+         20
+      ],
+      "active": false
+   },
+   "3024": {
+      "name": [
+         "Marcus",
+         "Foster"
+      ],
+      "teams": [
+         14
+      ],
+      "active": false
+   },
+   "3229": {
+      "name": [
+         "Jalen",
+         "Tate"
+      ],
+      "teams": [
+         14
+      ],
+      "active": false
+   },
+   "2182": {
+      "name": [
+         "Keifer",
+         "Sykes"
+      ],
+      "teams": [
+         15
+      ],
+      "active": false
+   },
+   "893": {
+      "name": [
+         "Tyrone",
+         "Wallace"
+      ],
+      "teams": [
+         15,
+         23
+      ],
+      "active": false
+   },
+   "1963": {
+      "name": [
+         "Gabe",
+         "York"
+      ],
+      "teams": [
+         15
+      ],
+      "active": false
+   },
+   "866": {
+      "name": [
+         "Devin",
+         "Robinson"
+      ],
+      "teams": [
+         15
+      ],
+      "active": false
+   },
+   "1418": {
+      "name": [
+         "Terry",
+         "Henderson"
+      ],
+      "teams": [
+         15
+      ],
+      "active": false
+   },
+   "2803": {
+      "name": [
+         "Chris",
+         "Duarte"
+      ],
+      "teams": [
+         15,
+         15
+      ],
+      "active": true
+   },
+   "2817": {
+      "name": [
+         "Isaiah",
+         "Jackson"
+      ],
+      "teams": [
+         15,
+         15
+      ],
+      "active": true
+   },
+   "2860": {
+      "name": [
+         "Duane",
+         "Washington Jr."
+      ],
+      "teams": [
+         15,
+         28
+      ],
+      "active": true
+   },
+   "2853": {
+      "name": [
+         "Terry",
+         "Taylor"
+      ],
+      "teams": [
+         15,
+         6,
+         15
+      ],
+      "active": true
+   },
+   "1828": {
+      "name": [
+         "Jemerrio",
+         "Jones"
+      ],
+      "teams": [
+         17,
+         21
+      ],
+      "active": false
+   },
+   "2418": {
+      "name": [
+         "Vic",
+         "Law"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "2926": {
+      "name": [
+         "Tres",
+         "Tinkle"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "2678": {
+      "name": [
+         "Zavier",
+         "Simpson"
+      ],
+      "teams": [
+         17,
+         25,
+         26
+      ],
+      "active": true
+   },
+   "2787": {
+      "name": [
+         "Joel",
+         "Ayayi"
+      ],
+      "teams": [
+         17,
+         41
+      ],
+      "active": false
+   },
+   "2845": {
+      "name": [
+         "Austin",
+         "Reaves"
+      ],
+      "teams": [
+         17,
+         17
+      ],
+      "active": true
+   },
+   "2814": {
+      "name": [
+         "Jay",
+         "Huff"
+      ],
+      "teams": [
+         17,
+         41,
+         17,
+         41
+      ],
+      "active": true
+   },
+   "111": {
+      "name": [
+         "Darren",
+         "Collison"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "2879": {
+      "name": [
+         "Jordan",
+         "Floyd"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "2883": {
+      "name": [
+         "Alan",
+         "Griffin"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "3049": {
+      "name": [
+         "Tyler",
+         "Hagedorn"
+      ],
+      "teams": [
+         17
+      ],
+      "active": false
+   },
+   "795": {
+      "name": [
+         "Isaiah",
+         "Hicks"
+      ],
+      "teams": [
+         16
+      ],
+      "active": false
+   },
+   "2026": {
+      "name": [
+         "Kerwin",
+         "Roach"
+      ],
+      "teams": [
+         16
+      ],
+      "active": false
+   },
+   "3396": {
+      "name": [
+         "Xavier",
+         "Moon"
+      ],
+      "teams": [
+         16,
+         16
+      ],
+      "active": true
+   },
+   "2792": {
+      "name": [
+         "Brandon",
+         "Boston Jr."
+      ],
+      "teams": [
+         16,
+         16
+      ],
+      "active": true
+   },
+   "2820": {
+      "name": [
+         "Keon",
+         "Johnson"
+      ],
+      "teams": [
+         16,
+         29,
+         29
+      ],
+      "active": true
+   },
+   "2842": {
+      "name": [
+         "Jason",
+         "Preston"
+      ],
+      "teams": [
+         16,
+         16
+      ],
+      "active": true
+   },
+   "3014": {
+      "name": [
+         "Lydell",
+         "Elmore"
+      ],
+      "teams": [
+         16
+      ],
+      "active": false
+   },
+   "843": {
+      "name": [
+         "Ben",
+         "Moore"
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "2988": {
+      "name": [
+         "Anthony",
+         "Cowan Jr."
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "2989": {
+      "name": [
+         "Darnell",
+         "Cowart"
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "2864": {
+      "name": [
+         "Ziaire",
+         "Williams"
+      ],
+      "teams": [
+         19,
+         19
+      ],
+      "active": true
+   },
+   "2841": {
+      "name": [
+         "Yves",
+         "Pons"
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "2786": {
+      "name": [
+         "Santi",
+         "Aldama"
+      ],
+      "teams": [
+         19,
+         19
+      ],
+      "active": true
+   },
+   "3264": {
+      "name": [
+         "Romeo",
+         "Weems"
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "3196": {
+      "name": [
+         "Olivier",
+         "Sarr"
+      ],
+      "teams": [
+         19
+      ],
+      "active": false
+   },
+   "3259": {
+      "name": [
+         "Keaton",
+         "Wallace"
+      ],
+      "teams": [
+         19,
+         16
+      ],
+      "active": true
+   },
+   "996": {
+      "name": [
+         "Brandon",
+         "McCoy"
+      ],
+      "teams": [
+         20
+      ],
+      "active": false
+   },
+   "1815": {
+      "name": [
+         "Haywood",
+         "Highsmith"
+      ],
+      "teams": [
+         20,
+         20
+      ],
+      "active": true
+   },
+   "2785": {
+      "name": [
+         "Omer",
+         "Yurtseven"
+      ],
+      "teams": [
+         20,
+         20
+      ],
+      "active": true
+   },
+   "2880": {
+      "name": [
+         "Marcus",
+         "Garrett"
+      ],
+      "teams": [
+         20,
+         20
+      ],
+      "active": true
+   },
+   "2922": {
+      "name": [
+         "DJ",
+         "Stewart"
+      ],
+      "teams": [
+         20,
+         31
+      ],
+      "active": false
+   },
+   "2917": {
+      "name": [
+         "Javonte",
+         "Smart"
+      ],
+      "teams": [
+         20,
+         21,
+         23
+      ],
+      "active": true
+   },
+   "2919": {
+      "name": [
+         "Justin",
+         "Smith"
+      ],
+      "teams": [
+         20
+      ],
+      "active": false
+   },
+   "3360": {
+      "name": [
+         "Dru",
+         "Smith"
+      ],
+      "teams": [
+         20,
+         4,
+         20
+      ],
+      "active": true
+   },
+   "759": {
+      "name": [
+         "Mario",
+         "Chalmers"
+      ],
+      "teams": [
+         20
+      ],
+      "active": false
+   },
+   "2875": {
+      "name": [
+         "Tyson",
+         "Carter"
+      ],
+      "teams": [
+         20
+      ],
+      "active": false
+   },
+   "2907": {
+      "name": [
+         "Micah",
+         "Potter"
+      ],
+      "teams": [
+         20
+      ],
+      "active": false
+   },
+   "2918": {
+      "name": [
+         "Dru",
+         "Smith"
+      ],
+      "teams": [
+         20
+      ],
+      "active": false
+   },
+   "2034": {
+      "name": [
+         "Lindell",
+         "Wigginton"
+      ],
+      "teams": [
+         21,
+         21
+      ],
+      "active": true
+   },
+   "3183": {
+      "name": [
+         "Brandon",
+         "Randolph"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "2783": {
+      "name": [
+         "Luca",
+         "Vildoza"
+      ],
+      "teams": [
+         21,
+         24,
+         21
+      ],
+      "active": true
+   },
+   "2830": {
+      "name": [
+         "Sandro",
+         "Mamukelashvili"
+      ],
+      "teams": [
+         21,
+         21,
+         31
+      ],
+      "active": true
+   },
+   "2824": {
+      "name": [
+         "Georgios",
+         "Kalaitzakis"
+      ],
+      "teams": [
+         21,
+         25
+      ],
+      "active": false
+   },
+   "369": {
+      "name": [
+         "Greg",
+         "Monroe"
+      ],
+      "teams": [
+         21,
+         22,
+         40,
+         41
+      ],
+      "active": false
+   },
+   "399": {
+      "name": [
+         "Johnny",
+         "O'Bryant III"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "3015": {
+      "name": [
+         "Steven",
+         "Enoch"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "3143": {
+      "name": [
+         "John",
+         "Mooney"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "3218": {
+      "name": [
+         "Mike",
+         "Smith"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "3247": {
+      "name": [
+         "DMitrik",
+         "Trice"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "3267": {
+      "name": [
+         "Tyree",
+         "White"
+      ],
+      "teams": [
+         21
+      ],
+      "active": false
+   },
+   "837": {
+      "name": [
+         "Malcolm",
+         "Miller"
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "1572": {
+      "name": [
+         "London",
+         "Perrantes"
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "3194": {
+      "name": [
+         "Cullen",
+         "Russo"
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "2973": {
+      "name": [
+         "Jared",
+         "Brownridge"
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "959": {
+      "name": [
+         "Marcus",
+         "Derrickson"
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "2452": {
+      "name": [
+         "John",
+         "Egbunu"
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "2571": {
+      "name": [
+         "Leandro",
+         "Bolmaro"
+      ],
+      "teams": [
+         22,
+         40
+      ],
+      "active": true
+   },
+   "2865": {
+      "name": [
+         "McKinley",
+         "Wright IV"
+      ],
+      "teams": [
+         22,
+         8
+      ],
+      "active": true
+   },
+   "3136": {
+      "name": [
+         "Isaiah",
+         "Miller"
+      ],
+      "teams": [
+         22,
+         29
+      ],
+      "active": true
+   },
+   "3102": {
+      "name": [
+         "Matt",
+         "Lewis"
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "2962": {
+      "name": [
+         "Kerry",
+         "Blackshear Jr."
+      ],
+      "teams": [
+         22
+      ],
+      "active": false
+   },
+   "2466": {
+      "name": [
+         "Daulton",
+         "Hommes"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "2822": {
+      "name": [
+         "Herbert",
+         "Jones"
+      ],
+      "teams": [
+         23,
+         23
+      ],
+      "active": true
+   },
+   "2837": {
+      "name": [
+         "Trey",
+         "Murphy III"
+      ],
+      "teams": [
+         23,
+         23
+      ],
+      "active": true
+   },
+   "2941": {
+      "name": [
+         "Jose",
+         "Alvarado"
+      ],
+      "teams": [
+         23,
+         23
+      ],
+      "active": true
+   },
+   "3378": {
+      "name": [
+         "James",
+         "Banks III"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "3151": {
+      "name": [
+         "Trey",
+         "Murphy"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "2999": {
+      "name": [
+         "David",
+         "DiLeo"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "3059": {
+      "name": [
+         "Malcolm",
+         "Hill"
+      ],
+      "teams": [
+         23
+      ],
+      "active": false
+   },
+   "594": {
+      "name": [
+         "Wayne",
+         "Selden"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "1348": {
+      "name": [
+         "Trey",
+         "Davis"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "2669": {
+      "name": [
+         "Quinton",
+         "Rose"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "2811": {
+      "name": [
+         "Quentin",
+         "Grimes"
+      ],
+      "teams": [
+         24,
+         24
+      ],
+      "active": true
+   },
+   "2676": {
+      "name": [
+         "Tyler",
+         "Hall"
+      ],
+      "teams": [
+         24,
+         8
+      ],
+      "active": true
+   },
+   "2832": {
+      "name": [
+         "Miles",
+         "McBride"
+      ],
+      "teams": [
+         24,
+         24
+      ],
+      "active": true
+   },
+   "2849": {
+      "name": [
+         "Jericho",
+         "Sims"
+      ],
+      "teams": [
+         24,
+         24
+      ],
+      "active": true
+   },
+   "2821": {
+      "name": [
+         "Rokas",
+         "Jokubaitis"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "3205": {
+      "name": [
+         "Aamir",
+         "Simms"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "3258": {
+      "name": [
+         "MJ",
+         "Walker"
+      ],
+      "teams": [
+         24,
+         28
+      ],
+      "active": false
+   },
+   "3246": {
+      "name": [
+         "Reid",
+         "Travis"
+      ],
+      "teams": [
+         24
+      ],
+      "active": false
+   },
+   "969": {
+      "name": [
+         "Melvin",
+         "Frazier Jr."
+      ],
+      "teams": [
+         25
+      ],
+      "active": false
+   },
+   "2608": {
+      "name": [
+         "Vit",
+         "Krejci"
+      ],
+      "teams": [
+         25,
+         1
+      ],
+      "active": true
+   },
+   "3271": {
+      "name": [
+         "Emmitt",
+         "Williams"
+      ],
+      "teams": [
+         25
+      ],
+      "active": false
+   },
+   "3011": {
+      "name": [
+         "Rob",
+         "Edwards"
+      ],
+      "teams": [
+         25
+      ],
+      "active": false
+   },
+   "3404": {
+      "name": [
+         "Lindy",
+         "Waters III"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": true
+   },
+   "3277": {
+      "name": [
+         "Ryan",
+         "Woolridge"
+      ],
+      "teams": [
+         25
+      ],
+      "active": false
+   },
+   "2846": {
+      "name": [
+         "Jeremiah",
+         "Robinson-Earl"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": true
+   },
+   "2831": {
+      "name": [
+         "Tre",
+         "Mann"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": true
+   },
+   "2808": {
+      "name": [
+         "Josh",
+         "Giddey"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": true
+   },
+   "2863": {
+      "name": [
+         "Aaron",
+         "Wiggins"
+      ],
+      "teams": [
+         25,
+         25
+      ],
+      "active": true
+   },
+   "2994": {
+      "name": [
+         "Oscar",
+         "da Silva"
+      ],
+      "teams": [
+         25
+      ],
+      "active": false
+   },
+   "3399": {
+      "name": [
+         "Olivier",
+         "Sarr"
+      ],
+      "teams": [
+         25,
+         25,
+         29
+      ],
+      "active": true
+   },
+   "1810": {
+      "name": [
+         "Scotty",
+         "Hopson"
+      ],
+      "teams": [
+         25
+      ],
+      "active": false
+   },
+   "1820": {
+      "name": [
+         "Tahjere",
+         "McCall"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "1450": {
+      "name": [
+         "Justin",
+         "Jackson"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "995": {
+      "name": [
+         "Yante",
+         "Maten"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "1428": {
+      "name": [
+         "D.J.",
+         "Hogg"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "2417": {
+      "name": [
+         "Hassani",
+         "Gravett"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "3087": {
+      "name": [
+         "Shakur",
+         "Juiston"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "3042": {
+      "name": [
+         "Jaire",
+         "Grayer"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "2858": {
+      "name": [
+         "Franz",
+         "Wagner"
+      ],
+      "teams": [
+         26,
+         26
+      ],
+      "active": true
+   },
+   "2852": {
+      "name": [
+         "Jalen",
+         "Suggs"
+      ],
+      "teams": [
+         26,
+         26
+      ],
+      "active": true
+   },
+   "3394": {
+      "name": [
+         "Aleem",
+         "Ford"
+      ],
+      "teams": [
+         26,
+         26
+      ],
+      "active": true
+   },
+   "3374": {
+      "name": [
+         "Jeremiah",
+         "Tilmon"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "2764": {
+      "name": [
+         "Janis",
+         "Timma"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "3007": {
+      "name": [
+         "Tahj",
+         "Eaddy"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "3134": {
+      "name": [
+         "Asbjorn",
+         "Midtgaard"
+      ],
+      "teams": [
+         26
+      ],
+      "active": false
+   },
+   "2790": {
+      "name": [
+         "Charles",
+         "Bassey"
+      ],
+      "teams": [
+         27,
+         27,
+         31
+      ],
+      "active": true
+   },
+   "2487": {
+      "name": [
+         "Lamar",
+         "Peters"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "2839": {
+      "name": [
+         "Filip",
+         "Petrusev"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "2851": {
+      "name": [
+         "Jaden",
+         "Springer"
+      ],
+      "teams": [
+         27,
+         27
+      ],
+      "active": true
+   },
+   "2813": {
+      "name": [
+         "Aaron",
+         "Henry"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "3305": {
+      "name": [
+         "Devonte",
+         "Green"
+      ],
+      "teams": [
+         27
+      ],
+      "active": false
+   },
+   "1831": {
+      "name": [
+         "Michael",
+         "Frazier"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "3402": {
+      "name": [
+         "Paris",
+         "Bass"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "2971": {
+      "name": [
+         "Vitto",
+         "Brown"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "1032": {
+      "name": [
+         "Emanuel",
+         "Terry"
+      ],
+      "teams": [
+         28,
+         30
+      ],
+      "active": false
+   },
+   "3121": {
+      "name": [
+         "Nate",
+         "Mason"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "2193": {
+      "name": [
+         "Zach",
+         "Hankins"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "2384": {
+      "name": [
+         "Kyle",
+         "Alexander"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "2444": {
+      "name": [
+         "Justin",
+         "Simon"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "3086": {
+      "name": [
+         "Tyrique",
+         "Jones"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "2859": {
+      "name": [
+         "Ish",
+         "Wainright"
+      ],
+      "teams": [
+         28,
+         38,
+         28
+      ],
+      "active": true
+   },
+   "3409": {
+      "name": [
+         "Gabriel",
+         "Lundberg"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "2998": {
+      "name": [
+         "Alpha",
+         "Diallo"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "3047": {
+      "name": [
+         "Jon Axel",
+         "Gudmundsson"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "3090": {
+      "name": [
+         "Trey",
+         "Kell"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "3107": {
+      "name": [
+         "Jo",
+         "Lual-Acuil Jr."
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "3157": {
+      "name": [
+         "Emmanuel",
+         "Nzekwesi"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "3214": {
+      "name": [
+         "Jaleen",
+         "Smith"
+      ],
+      "teams": [
+         28
+      ],
+      "active": false
+   },
+   "378": {
+      "name": [
+         "Emmanuel",
+         "Mudiay"
+      ],
+      "teams": [
+         29,
+         30
+      ],
+      "active": false
+   },
+   "873": {
+      "name": [
+         "Kobi",
+         "Simmons"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "741": {
+      "name": [
+         "Antonio",
+         "Blakeney"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "769": {
+      "name": [
+         "Milton",
+         "Doyle"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "834": {
+      "name": [
+         "Erik",
+         "McCree"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "3397": {
+      "name": [
+         "Jarron",
+         "Cumberland"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "3398": {
+      "name": [
+         "Brandon",
+         "Williams"
+      ],
+      "teams": [
+         29,
+         29
+      ],
+      "active": true
+   },
+   "2795": {
+      "name": [
+         "Greg",
+         "Brown III"
+      ],
+      "teams": [
+         29,
+         29
+      ],
+      "active": true
+   },
+   "2861": {
+      "name": [
+         "Trendon",
+         "Watford"
+      ],
+      "teams": [
+         29,
+         29
+      ],
+      "active": true
+   },
+   "47": {
+      "name": [
+         "Michael",
+         "Beasley"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "167": {
+      "name": [
+         "Kenneth",
+         "Faried"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "3255": {
+      "name": [
+         "Mark",
+         "Vital"
+      ],
+      "teams": [
+         29
+      ],
+      "active": false
+   },
+   "1043": {
+      "name": [
+         "Johnathan",
+         "Williams"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "2844": {
+      "name": [
+         "Neemias",
+         "Queta"
+      ],
+      "teams": [
+         30,
+         30
+      ],
+      "active": true
+   },
+   "2882": {
+      "name": [
+         "Marcus",
+         "Graves"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "2916": {
+      "name": [
+         "Princepal",
+         "Singh"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "2834": {
+      "name": [
+         "Davion",
+         "Mitchell"
+      ],
+      "teams": [
+         30,
+         30
+      ],
+      "active": true
+   },
+   "2921": {
+      "name": [
+         "DJ",
+         "Steward"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "2986": {
+      "name": [
+         "Matt",
+         "Coleman III"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "2869": {
+      "name": [
+         "Alex",
+         "Antetokounmpo"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "2885": {
+      "name": [
+         "Damien",
+         "Jefferson"
+      ],
+      "teams": [
+         30
+      ],
+      "active": false
+   },
+   "844": {
+      "name": [
+         "Jaylen",
+         "Morris"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "1485": {
+      "name": [
+         "Jock",
+         "Landale"
+      ],
+      "teams": [
+         31,
+         28
+      ],
+      "active": true
+   },
+   "3000": {
+      "name": [
+         "Stephen",
+         "Domingo"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "3078": {
+      "name": [
+         "Kaleb",
+         "Johnson"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "3187": {
+      "name": [
+         "Nate",
+         "Renfro"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "2843": {
+      "name": [
+         "Joshua",
+         "Primo"
+      ],
+      "teams": [
+         31,
+         31
+      ],
+      "active": true
+   },
+   "2862": {
+      "name": [
+         "Joe",
+         "Wieskamp"
+      ],
+      "teams": [
+         31,
+         31,
+         38
+      ],
+      "active": true
+   },
+   "3138": {
+      "name": [
+         "Matt",
+         "Mitchell"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "3249": {
+      "name": [
+         "Justin",
+         "Turner"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "3017": {
+      "name": [
+         "Biram",
+         "Faye"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "2996": {
+      "name": [
+         "Eric",
+         "Demers"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "3190": {
+      "name": [
+         "Justin",
+         "Robinson"
+      ],
+      "teams": [
+         31
+      ],
+      "active": false
+   },
+   "132": {
+      "name": [
+         "Sam",
+         "Dekker"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "2432": {
+      "name": [
+         "Jalen",
+         "Adams"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "2543": {
+      "name": [
+         "Matt",
+         "Morgan"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "2818": {
+      "name": [
+         "David",
+         "Johnson"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "2798": {
+      "name": [
+         "Justin",
+         "Champagnie"
+      ],
+      "teams": [
+         38,
+         38
+      ],
+      "active": true
+   },
+   "2789": {
+      "name": [
+         "Scottie",
+         "Barnes"
+      ],
+      "teams": [
+         38,
+         38
+      ],
+      "active": true
+   },
+   "2788": {
+      "name": [
+         "Dalano",
+         "Banton"
+      ],
+      "teams": [
+         38,
+         38
+      ],
+      "active": true
+   },
+   "2993": {
+      "name": [
+         "Zaccheus",
+         "Darko-Kelly"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "3109": {
+      "name": [
+         "Anas",
+         "Mahmoud"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "3135": {
+      "name": [
+         "Isiaha",
+         "Mike"
+      ],
+      "teams": [
+         38
+      ],
+      "active": false
+   },
+   "339": {
+      "name": [
+         "Jarell",
+         "Martin"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "447": {
+      "name": [
+         "Malachi",
+         "Richardson"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "3266": {
+      "name": [
+         "Paul",
+         "White"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "2796": {
+      "name": [
+         "Jared",
+         "Butler"
+      ],
+      "teams": [
+         40,
+         25,
+         40
+      ],
+      "active": true
+   },
+   "2642": {
+      "name": [
+         "Nathan",
+         "Sestina"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "2854": {
+      "name": [
+         "MaCio",
+         "Teague"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "775": {
+      "name": [
+         "Kyle",
+         "Fogg"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "3027": {
+      "name": [
+         "D.J.",
+         "Funderburk"
+      ],
+      "teams": [
+         40
+      ],
+      "active": false
+   },
+   "3036": {
+      "name": [
+         "Asante",
+         "Gist"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "2548": {
+      "name": [
+         "Craig",
+         "Sword"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "2078": {
+      "name": [
+         "Aubrey",
+         "Dawkins"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "1865": {
+      "name": [
+         "Dewan",
+         "Hernandez"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "2857": {
+      "name": [
+         "Isaiah",
+         "Todd"
+      ],
+      "teams": [
+         41,
+         41
+      ],
+      "active": true
+   },
+   "2825": {
+      "name": [
+         "Corey",
+         "Kispert"
+      ],
+      "teams": [
+         41,
+         41
+      ],
+      "active": true
+   },
+   "3341": {
+      "name": [
+         "Jordan",
+         "Goodwin"
+      ],
+      "teams": [
+         41,
+         41
+      ],
+      "active": true
+   },
+   "3345": {
+      "name": [
+         "Jaime",
+         "Echenique"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "3184": {
+      "name": [
+         "Xavier",
+         "Rathan-Mayes"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "3009": {
+      "name": [
+         "Jaime",
+         "Echenique"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "3037": {
+      "name": [
+         "Jordan",
+         "Goodwin"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "3061": {
+      "name": [
+         "Austin",
+         "Hollins"
+      ],
+      "teams": [
+         41
+      ],
+      "active": false
+   },
+   "3437": {
+      "name": [
+         "Tyson",
+         "Etienne"
+      ],
+      "teams": [
+         1
+      ],
+      "active": true
+   },
+   "3444": {
+      "name": [
+         "AJ",
+         "Griffin"
+      ],
+      "teams": [
+         1
+      ],
+      "active": true
+   },
+   "3465": {
+      "name": [
+         "Tyrese",
+         "Martin"
+      ],
+      "teams": [
+         1
+      ],
+      "active": true
+   },
+   "3429": {
+      "name": [
+         "JD",
+         "Davison"
+      ],
+      "teams": [
+         2
+      ],
+      "active": true
+   },
+   "3503": {
+      "name": [
+         "Alondes",
+         "Williams"
+      ],
+      "teams": [
+         4
+      ],
+      "active": true
+   },
+   "3506": {
+      "name": [
+         "Mark",
+         "Williams"
+      ],
+      "teams": [
+         5
+      ],
+      "active": true
+   },
+   "3469": {
+      "name": [
+         "Bryce",
+         "McGowens"
+      ],
+      "teams": [
+         5
+      ],
+      "active": true
+   },
+   "3488": {
+      "name": [
+         "Jaylen",
+         "Sims"
+      ],
+      "teams": [
+         5
+      ],
+      "active": true
+   },
+   "3434": {
+      "name": [
+         "Anthony",
+         "Duruji"
+      ],
+      "teams": [
+         5
+      ],
+      "active": true
+   },
+   "3500": {
+      "name": [
+         "Isaiah",
+         "Whaley"
+      ],
+      "teams": [
+         5
+      ],
+      "active": true
+   },
+   "3494": {
+      "name": [
+         "Dalen",
+         "Terry"
+      ],
+      "teams": [
+         6
+      ],
+      "active": true
+   },
+   "3440": {
+      "name": [
+         "Javon",
+         "Freeman-Liberty"
+      ],
+      "teams": [
+         6
+      ],
+      "active": true
+   },
+   "3472": {
+      "name": [
+         "Isaiah",
+         "Mobley"
+      ],
+      "teams": [
+         7
+      ],
+      "active": true
+   },
+   "767": {
+      "name": [
+         "Tyler",
+         "Dorsey"
+      ],
+      "teams": [
+         8
+      ],
+      "active": true
+   },
+   "3407": {
+      "name": [
+         "Jaden",
+         "Hardy"
+      ],
+      "teams": [
+         8
+      ],
+      "active": true
+   },
+   "3578": {
+      "name": [
+         "Marcus",
+         "Bingham Jr."
+      ],
+      "teams": [
+         8
+      ],
+      "active": true
+   },
+   "3445": {
+      "name": [
+         "Mouhamadou",
+         "Gueye"
+      ],
+      "teams": [
+         8
+      ],
+      "active": true
+   },
+   "3420": {
+      "name": [
+         "Christian",
+         "Braun"
+      ],
+      "teams": [
+         9
+      ],
+      "active": true
+   },
+   "3498": {
+      "name": [
+         "Peyton",
+         "Watson"
+      ],
+      "teams": [
+         9
+      ],
+      "active": true
+   },
+   "3501": {
+      "name": [
+         "Jack",
+         "White"
+      ],
+      "teams": [
+         9
+      ],
+      "active": true
+   },
+   "3893": {
+      "name": [
+         "Grant",
+         "Golden"
+      ],
+      "teams": [
+         9
+      ],
+      "active": true
+   },
+   "3790": {
+      "name": [
+         "Stanley",
+         "Umude"
+      ],
+      "teams": [
+         10
+      ],
+      "active": true
+   },
+   "3451": {
+      "name": [
+         "Jaden",
+         "Ivey"
+      ],
+      "teams": [
+         10
+      ],
+      "active": true
+   },
+   "3433": {
+      "name": [
+         "Jalen",
+         "Duren"
+      ],
+      "teams": [
+         10
+      ],
+      "active": true
+   },
+   "3481": {
+      "name": [
+         "Jared",
+         "Rhoden"
+      ],
+      "teams": [
+         10,
+         29
+      ],
+      "active": true
+   },
+   "3417": {
+      "name": [
+         "Buddy",
+         "Boeheim"
+      ],
+      "teams": [
+         10
+      ],
+      "active": true
+   },
+   "3576": {
+      "name": [
+         "Jules",
+         "Bernard"
+      ],
+      "teams": [
+         10
+      ],
+      "active": true
+   },
+   "3492": {
+      "name": [
+         "Pat",
+         "Spencer"
+      ],
+      "teams": [
+         11
+      ],
+      "active": true
+   },
+   "3485": {
+      "name": [
+         "Gui",
+         "Santos"
+      ],
+      "teams": [
+         11
+      ],
+      "active": true
+   },
+   "3507": {
+      "name": [
+         "Trevion",
+         "Williams"
+      ],
+      "teams": [
+         11
+      ],
+      "active": true
+   },
+   "3413": {
+      "name": [
+         "Patrick",
+         "Baldwin Jr."
+      ],
+      "teams": [
+         11
+      ],
+      "active": true
+   },
+   "3484": {
+      "name": [
+         "Ryan",
+         "Rollins"
+      ],
+      "teams": [
+         11
+      ],
+      "active": true
+   },
+   "3480": {
+      "name": [
+         "Lester",
+         "Quinones"
+      ],
+      "teams": [
+         11
+      ],
+      "active": true
+   },
+   "3430": {
+      "name": [
+         "Darius",
+         "Days"
+      ],
+      "teams": [
+         14,
+         20
+      ],
+      "active": true
+   },
+   "3489": {
+      "name": [
+         "Jabari",
+         "Smith Jr."
+      ],
+      "teams": [
+         14
+      ],
+      "active": true
+   },
+   "3497": {
+      "name": [
+         "TyTy",
+         "Washington Jr."
+      ],
+      "teams": [
+         14
+      ],
+      "active": true
+   },
+   "3435": {
+      "name": [
+         "Tari",
+         "Eason"
+      ],
+      "teams": [
+         14
+      ],
+      "active": true
+   },
+   "3450": {
+      "name": [
+         "Trevor",
+         "Hudgins"
+      ],
+      "teams": [
+         14
+      ],
+      "active": true
+   },
+   "3476": {
+      "name": [
+         "Andrew",
+         "Nembhard"
+      ],
+      "teams": [
+         15
+      ],
+      "active": true
+   },
+   "3466": {
+      "name": [
+         "Bennedict",
+         "Mathurin"
+      ],
+      "teams": [
+         15
+      ],
+      "active": true
+   },
+   "3423": {
+      "name": [
+         "Kendall",
+         "Brown"
+      ],
+      "teams": [
+         15
+      ],
+      "active": true
+   },
+   "3477": {
+      "name": [
+         "Scotty",
+         "Pippen Jr."
+      ],
+      "teams": [
+         17
+      ],
+      "active": true
+   },
+   "3427": {
+      "name": [
+         "Max",
+         "Christie"
+      ],
+      "teams": [
+         17
+      ],
+      "active": true
+   },
+   "3493": {
+      "name": [
+         "Cole",
+         "Swider"
+      ],
+      "teams": [
+         17
+      ],
+      "active": true
+   },
+   "3431": {
+      "name": [
+         "Moussa",
+         "Diabate"
+      ],
+      "teams": [
+         16
+      ],
+      "active": true
+   },
+   "3620": {
+      "name": [
+         "Michael",
+         "Devoe"
+      ],
+      "teams": [
+         16
+      ],
+      "active": true
+   },
+   "3896": {
+      "name": [
+         "Lucas",
+         "Williamson"
+      ],
+      "teams": [
+         16
+      ],
+      "active": true
+   },
+   "3426": {
+      "name": [
+         "Kennedy",
+         "Chandler"
+      ],
+      "teams": [
+         19
+      ],
+      "active": true
+   },
+   "3460": {
+      "name": [
+         "Jake",
+         "LaRavia"
+      ],
+      "teams": [
+         19
+      ],
+      "active": true
+   },
+   "3483": {
+      "name": [
+         "David",
+         "Roddy"
+      ],
+      "teams": [
+         19
+      ],
+      "active": true
+   },
+   "3508": {
+      "name": [
+         "Vince",
+         "Williams Jr."
+      ],
+      "teams": [
+         19
+      ],
+      "active": true
+   },
+   "3463": {
+      "name": [
+         "Kenneth",
+         "Lofton Jr."
+      ],
+      "teams": [
+         19
+      ],
+      "active": true
+   },
+   "3892": {
+      "name": [
+         "Jacob",
+         "Gilyard"
+      ],
+      "teams": [
+         19
+      ],
+      "active": true
+   },
+   "3887": {
+      "name": [
+         "Justin",
+         "Bean"
+      ],
+      "teams": [
+         19
+      ],
+      "active": true
+   },
+   "3453": {
+      "name": [
+         "Nikola",
+         "Jovic"
+      ],
+      "teams": [
+         20
+      ],
+      "active": true
+   },
+   "3482": {
+      "name": [
+         "Orlando",
+         "Robinson"
+      ],
+      "teams": [
+         20
+      ],
+      "active": true
+   },
+   "3418": {
+      "name": [
+         "Jamaree",
+         "Bouyea"
+      ],
+      "teams": [
+         20,
+         41
+      ],
+      "active": true
+   },
+   "3424": {
+      "name": [
+         "Jamal",
+         "Cain"
+      ],
+      "teams": [
+         20
+      ],
+      "active": true
+   },
+   "3405": {
+      "name": [
+         "MarJon",
+         "Beauchamp"
+      ],
+      "teams": [
+         21
+      ],
+      "active": true
+   },
+   "3443": {
+      "name": [
+         "A.J.",
+         "Green"
+      ],
+      "teams": [
+         21
+      ],
+      "active": true
+   },
+   "3474": {
+      "name": [
+         "Wendell",
+         "Moore Jr."
+      ],
+      "teams": [
+         22
+      ],
+      "active": true
+   },
+   "3470": {
+      "name": [
+         "Josh",
+         "Minott"
+      ],
+      "teams": [
+         22
+      ],
+      "active": true
+   },
+   "3170": {
+      "name": [
+         "John",
+         "Petty Jr."
+      ],
+      "teams": [
+         23
+      ],
+      "active": true
+   },
+   "3406": {
+      "name": [
+         "Dyson",
+         "Daniels"
+      ],
+      "teams": [
+         23
+      ],
+      "active": true
+   },
+   "3597": {
+      "name": [
+         "John",
+         "Butler Jr."
+      ],
+      "teams": [
+         23,
+         29
+      ],
+      "active": true
+   },
+   "3486": {
+      "name": [
+         "Dereon",
+         "Seabron"
+      ],
+      "teams": [
+         23
+      ],
+      "active": true
+   },
+   "3478": {
+      "name": [
+         "Daeqwon",
+         "Plowden"
+      ],
+      "teams": [
+         23
+      ],
+      "active": true
+   },
+   "3456": {
+      "name": [
+         "Trevor",
+         "Keels"
+      ],
+      "teams": [
+         24
+      ],
+      "active": true
+   },
+   "3532": {
+      "name": [
+         "Sacha",
+         "Killeya-Jones"
+      ],
+      "teams": [
+         25
+      ],
+      "active": true
+   },
+   "3504": {
+      "name": [
+         "Jalen",
+         "Williams"
+      ],
+      "teams": [
+         25
+      ],
+      "active": true
+   },
+   "3505": {
+      "name": [
+         "Jaylin",
+         "Williams"
+      ],
+      "teams": [
+         25
+      ],
+      "active": true
+   },
+   "3432": {
+      "name": [
+         "Ousmane",
+         "Dieng"
+      ],
+      "teams": [
+         25
+      ],
+      "active": true
+   },
+   "3925": {
+      "name": [
+         "Jaden",
+         "Shackelford"
+      ],
+      "teams": [
+         25
+      ],
+      "active": true
+   },
+   "971": {
+      "name": [
+         "Abdul",
+         "Gaddy"
+      ],
+      "teams": [
+         25
+      ],
+      "active": true
+   },
+   "2677": {
+      "name": [
+         "Kevon",
+         "Harris"
+      ],
+      "teams": [
+         26
+      ],
+      "active": true
+   },
+   "3414": {
+      "name": [
+         "Paolo",
+         "Banchero"
+      ],
+      "teams": [
+         26
+      ],
+      "active": true
+   },
+   "3449": {
+      "name": [
+         "Caleb",
+         "Houstan"
+      ],
+      "teams": [
+         26
+      ],
+      "active": true
+   },
+   "3425": {
+      "name": [
+         "Julian",
+         "Champagnie"
+      ],
+      "teams": [
+         27,
+         31
+      ],
+      "active": true
+   },
+   "3439": {
+      "name": [
+         "Michael",
+         "Foster Jr."
+      ],
+      "teams": [
+         27
+      ],
+      "active": true
+   },
+   "3487": {
+      "name": [
+         "Shaedon",
+         "Sharpe"
+      ],
+      "teams": [
+         29
+      ],
+      "active": true
+   },
+   "3496": {
+      "name": [
+         "Jabari",
+         "Walker"
+      ],
+      "teams": [
+         29
+      ],
+      "active": true
+   },
+   "947": {
+      "name": [
+         "Deonte",
+         "Burton"
+      ],
+      "teams": [
+         30
+      ],
+      "active": true
+   },
+   "3475": {
+      "name": [
+         "Keegan",
+         "Murray"
+      ],
+      "teams": [
+         30
+      ],
+      "active": true
+   },
+   "3436": {
+      "name": [
+         "Keon",
+         "Ellis"
+      ],
+      "teams": [
+         30
+      ],
+      "active": true
+   },
+   "3473": {
+      "name": [
+         "Chima",
+         "Moneke"
+      ],
+      "teams": [
+         30
+      ],
+      "active": true
+   },
+   "3419": {
+      "name": [
+         "Malaki",
+         "Branham"
+      ],
+      "teams": [
+         31
+      ],
+      "active": true
+   },
+   "3499": {
+      "name": [
+         "Blake",
+         "Wesley"
+      ],
+      "teams": [
+         31
+      ],
+      "active": true
+   },
+   "3490": {
+      "name": [
+         "Jeremy",
+         "Sochan"
+      ],
+      "teams": [
+         31
+      ],
+      "active": true
+   },
+   "3446": {
+      "name": [
+         "Jordan",
+         "Hall"
+      ],
+      "teams": [
+         31
+      ],
+      "active": true
+   },
+   "3415": {
+      "name": [
+         "Dominick",
+         "Barlow"
+      ],
+      "teams": [
+         31
+      ],
+      "active": true
+   },
+   "3459": {
+      "name": [
+         "Tommy",
+         "Kuhse"
+      ],
+      "teams": [
+         31
+      ],
+      "active": true
+   },
+   "3422": {
+      "name": [
+         "Gabe",
+         "Brown"
+      ],
+      "teams": [
+         38
+      ],
+      "active": true
+   },
+   "3458": {
+      "name": [
+         "Christian",
+         "Koloko"
+      ],
+      "teams": [
+         38
+      ],
+      "active": true
+   },
+   "3447": {
+      "name": [
+         "Ron",
+         "Harper Jr."
+      ],
+      "teams": [
+         38
+      ],
+      "active": true
+   },
+   "3411": {
+      "name": [
+         "Ochai",
+         "Agbaji"
+      ],
+      "teams": [
+         40
+      ],
+      "active": true
+   },
+   "3454": {
+      "name": [
+         "Johnny",
+         "Juzang"
+      ],
+      "teams": [
+         40
+      ],
+      "active": true
+   },
+   "3457": {
+      "name": [
+         "Walker",
+         "Kessler"
+      ],
+      "teams": [
+         40
+      ],
+      "active": true
+   },
+   "3438": {
+      "name": [
+         "Simone",
+         "Fontecchio"
+      ],
+      "teams": [
+         40
+      ],
+      "active": true
+   },
+   "3428": {
+      "name": [
+         "Johnny",
+         "Davis"
+      ],
+      "teams": [
+         41
+      ],
+      "active": true
+   },
+   "3452": {
+      "name": [
+         "Quenton",
+         "Jackson"
+      ],
+      "teams": [
+         41
+      ],
+      "active": true
+   }
+}
